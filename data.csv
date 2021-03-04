@@ -1,0 +1,1204 @@
+,1/29/2021,Dry Production,Unnamed: 0,Rigs,Unnamed: 1,Well,Unnamed: 2,NYMEX,1/29/2021.1,Dry Production.1,Unnamed: 3,Rigs.1,Unnamed: 4,Unnamed: 5,Avg IP's,Well.1,Unnamed: 6,AECO
+0,Lower 48,mmcfd Yr/Yr,Gas,,Oil,Count,,Price,W. Canada,mmcfd Yr/Yr,Gas,,Oil,,mcfd,Count,,Price
+1,Winter '20/'21,"90,443 (3,437)",112,,311,"3,685",$,2.66,Winter '20/'21,"15,757 (44)",66,,,54.0,"1,261","1,605",$,2.20
+2,Summer '21,"90,009 1,347",154,,473,"7,139",$,2.71,Summer '21,"15,840 822",61,,,56.0,"1,244","2,789",$,2.00
+3,Winter '21/'22,"91,968 1,525",158,,507,"6,144",$,2.95,Winter '21/'22,"16,698 941",82,,,95.0,"1,093","3,075",$,2.27
+4,2021,"90,344 247",144,,444,"11,687",$,2.74,2021,"15,916 619",67,,,64.0,"1,226","5,169",$,2.08
+5,2022,"93,872 3,528",161,,499,"14,930",$,2.64,2022,"17,259 1,342",69,,,68.0,"1,197","6,187",$,1.94
+
+Table number: 0,Lower 48,Dec-20,Jan-21,Feb-21,Mar-21,Apr-21,May-21,Jun-21,Jul-21,Aug-21,Sep-21,Oct-21,Nov-21
+0,Dry Prod (mmcfd),"90,442","90,395","90,670","90,447","90,091","89,688","89,729","89,672","89,934","90,303","90,646","91,115"
+1,Yr/Yr (mmcfd),"(3,990)","(3,296)","(2,125)","(2,889)","(2,012)","2,234","2,076",932,"1,420","2,071","2,706",854
+2,Gas Rigs,106,107,115,128,144,153,160,161,157,152,151,151
+3,Oil Rigs,287,309,334,363,394,426,461,496,511,513,510,509
+4,Well Count,792,821,651,654,690,820,949,"1,018","1,173","1,210","1,281","1,210"
+
+Table number: 1,Western Canada,Dec-20,Jan-21,Feb-21,Mar-21,Apr-21,May-21,Jun-21,Jul-21,Aug-21,Sep-21,Oct-21,Nov-21
+0,Dry Prod (mmcfd),"15,809","15,768","15,789","15,770","16,023","15,796","14,899","15,509","15,943","16,267","16,442","16,387"
+1,Yr/Yr (mmcfd),(329),249,(16),109,410,440,(201),724,"1,169","1,923","1,289",737
+2,Gas Rigs,58,66,75,75,46,41,52,58,63,60,104,105
+3,Oil Rigs,40,68,98,29,14,13,57,45,70,88,105,98
+4,Well Count,258,309,422,340,98,135,520,545,604,365,521,648
+5,IP (mcfd/well),"1,091","1,336","1,391","1,147","1,628","1,673",283,"1,163","1,460","1,446","1,055","1,090"
+
+Table number: 2,Unnamed: 0,Unnamed: 1,Unnamed: 2,Feb-18,Sep-17
+0,"95,000","4,500",,,
+1,"90,000","4,000  12,000",,Jul-18,Feb-18
+2,"85,000","3,500",,Dec-18,Jul-18
+3,,"3,000",,,
+4,"80,000","7,000 2,500",,May-19,Dec-18
+5,"75,000",,,,May-19
+6,,"2,000",,Oct-19,
+7,"70,000","1,500  2,000",,,Oct-19
+8,"65,000","1,000",,Mar-20,Mar-20
+9,"60,000",500,,Aug-20,Aug-20
+10,"55,000","-  (3,000)",,Jan-21,Jan-21
+11,,,,Jun-21,Jun-21
+
+Table number: 3,300,$4.50,950,Unnamed: 0,$80
+0,,,850.0,,$70
+1,250.0,$4.00,,,
+2,,,750.0,,$60
+3,200.0,$3.50,,,
+4,,,650.0,,$50
+5,,,,Jan-16,
+6,150.0,$3.00,550.0,,$40
+
+Table number: 4,Unnamed: 0,May-19,Dec-18
+0,,Bal 2021 / 2O0ct-129 2 Strip Prices,May-19
+1,,Mar-20$2.08/$1.94,Oct-19
+2,,Aug-20,Mar-20
+3,,Jan-21,Aug-20
+4,,Jun-21,Jan-21
+5,,Nov-21,Jun-21
+6,,Apr-22,Nov-21
+7,,$2.64/$2.59 Sep-22,Apr-22
+8,,,Sep-22
+9,$2.93/$2.93,,
+10,,$2.08/$1.99,
+
+Table number: 5,Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Jan-21
+0,1/29/2021,Dry Production,,Rigs,,Avg IP's,Well,,Dom,,
+1,East,mmcfd Yr/Yr,Gas,Jun-2O1il,,mcfd,Count,,Price,,Jun-21
+2,Winter '20/'21,"33,957 840",35No v  - 2  1,,6.0,"12,679",582,$,,2.22,Nov-21
+3,Summer '21,"33,592 1,034",44,,11.0,"12,646",757,$,,2.0,
+4,,,,Apr-22,,,,,,,Apr-22
+5,Winter '21/'22,"34,755 798",43,,12.0,"12,414",664,$,,2.33,
+6,2021,"33,798 961",42Se p  - 2  2,,10.0,"12,662","1,317",$,,2.08,Sep-22
+7,2022,"35,698 1,900",44,,11.0,"12,820","1,511",$,,1.99,
+
+Table number: 6,"45,000","1,600","7,000",Unnamed: 0,Unnamed: 1,Unnamed: 2
+0,,,,,,mmcfd
+1,,"1,400","6,000",,,
+2,"40,000",,,,,
+3,Jan-16,"1,200","5,000",,,
+4,"35,000",,"4,000",,,
+5,Jun-16,"1,000",,Jan-16,,
+6,,,"3,000",,,
+7,"30,000 Nov-16",800,,,,
+8,,,"2,000",Jun-16,,
+9,"25,000 Apr-17",600,"1,000",Nov-16,,
+10,"Apr-17 20,000 400Sep-17",,-,,,
+11,,200,"(1,000)",,,
+12,Feb-18,,,Sep-17,,
+
+Table number: 7,East,Dec-20,Jan-21,Feb-21,Mar-21,Apr-21,May-21,Jun-21,Jul-21,Aug-21,Sep-21,Oct-21,Nov-21
+0,Dry Prod (mmcfd),"34,389","34,050","33,996","33,774","33,565","33,405","33,467","33,410","33,592","33,783","33,920","34,230"
+1,Yr/Yr (mmcfd),898,"1,167","1,451","1,025",650,"1,113","1,438",631,375,"1,560","1,469",657
+2,Gas Rigs,33,35,36,38,41,43,45,45,44,44,44,43
+3,Oil Rigs,8,6,5,6,7,9,11,13,13,13,13,13
+4,Well Count,115,140,93,97,81,100,105,89,138,94,149,107
+5,IP (mcfd/well),"11,580","12,542","12,190","12,358","12,428","12,190","13,339","12,642","13,646","11,754","12,526","13,600"
+
+Table number: 8,Jun-16,Unnamed: 0,Unnamed: 1,Unnamed: 2,Jan-16
+0,Eastern US Regional ANovn-1a6 lysis,,,,Jun-16
+1,"We have increased our 2021 pAprro-1d7uction by ~410 mmcfd,",now,,,Nov-16
+2,calling for +0.96 bcfd yr/yr groSwept-h17 (vs. +0.55 bcfd yr/yr,growth,,,Apr-17
+3,"previously), due to adding 3 gaFesb-1r8igs in 2021 compared",to our,,,Sep-17
+4,,,,,Feb-18
+5,previous rig forecast. We have iJnulc-1r8eased our 2022 yr/yr forecast,,,,
+6,,,,,Jul-18
+7,"by ~1,080 mmcfd, now at a +1.9D0ec-b18cfd yr/yr increase (vs. a +0.82",,,,
+8,,,,,Dec-18
+9,bcfd yr/yr growth previously). MMayo-1s9 t of the increases were,due,,,
+10,,,,,May-19
+11,adding 4 gas rigs in 2022 compaOrcte-1d9 to our previous rig forecast.,,,,
+12,,,,,Oct-19
+13,Mar-20,,,,Mar-20
+14,Seasonal Data Aug-20,,,,Aug-20
+15,Jan-21,,,,Jan-21
+16,1/29/2021 Dry Production Rigs Avg IP's Well,Dom,,,
+17,East mmcfd Yr/Yr Gas Jun-2O1il mcfd Count,Price,,,Jun-21
+18,"Winter '20/'21 33,957 840 35No v  - 2  16 12,679 582 $",2.22,,,Nov-21
+19,"Summer '21 33,592 1,034 44 11 12,646 757 $",2.00,,,
+20,Apr-22,,,,Apr-22
+21,"Winter '21/'22 34,755 798 43 12 12,414 664 $",2.33,,,
+22,"2021 33,798 961 42Se p  - 2  210 12,662 1,317 $",2.08,,,Sep-22
+23,"2022 35,698 1,900 44 11 12,820 1,511 $",1.99,,,
+
+Table number: 9,120,Aug-20 $4.00,40,Mar-20,$80
+0,,Jan-21,35.0,Aug-20,$70
+1,100.0,$3.50,,,
+2,,Jun-21,30.0,Jan-21,$60
+3,80.0,$3.00,,,
+4,,Nov-21,25.0,Jun-21,$50
+5,60.0,$40Apr-22 $2.50,20.0,Nov-21,
+6,,,15.0,,$30
+7,40.0,Sep-22 $2.00,,Apr-22,
+8,,,10.0,,$20
+9,20.0,$1.50,,Sep-22,
+10,,,5.0,,$10
+
+Table number: 10,Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,callouts represent significant projects,Unnamed: 14,Unnamed: 15
+0,able to,quickly,turn,production off,and,back,on,again,to,respond,to,,,,Mountaineer & Gulf XPress *high risk for delay beyond estimated date,,Mountain Valley*
+1,,,,,,,,,,,,,"24,000",,,,
+2,,,,,,,,,,,,,,,Atlantic Sunrise P2,,
+3,unattractive prices.,,,"Production popped up at the end of the year, with",,,,,,,,,,,NEXUS,,
+4,,,,,,,,,,,,,"20,000",,,,
+5,local production averaging 34.4 bcfd,,,,for,"the month of December, after",,,,,,,,,Rover P2,,
+6,"16,000averaging 33.6 bcfd for the month of November. December production",,,,,,,,,,,,,,Leach XPress,,
+7,remained,relatively,flat,throughout,"the month,",,and,mild,weather,kept,,,"12,000",,"Adair SW, Access South",,
+8,,,,,,,,,,,,,,,OPEN Phase I REX Z3 Expansion,Rover P1 B,
+9,production,steady,in,the face of,price,volatility,,and unplanned,,that,,,"8,000",,,,PennEast P1*
+10,,,,,,,,,,,,,,,TEAM 2014,,
+11,normally,would,have,caused production,,swings,,during,a,less mild,,,"4,000",,,,
+12,,,,,,,,,,,,,,,,Rover P1 A,
+
+Table number: 11,Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,"12,600",$5.50,Unnamed: 9,Unnamed: 10,Unnamed: 11
+0,prices hold.,,,,,,,,,,,,,
+1,,,,,,,,,,"12,200",$5.00,,,
+2,"11,800Continuing",legal,and,permitting,troubles,have,once,again,radically,,$4.50,,,
+3,affected our,outlook,for,Mountain,Valley,Pipeline,"(MVP),",whimch,"11,400mcfd last",mmcfd,$4.00,,,mmcfd
+4,week withdrew,its,effort,to circumvent,the,need,for stream,,crossing,"11,000",$3.50,,,
+5,"permits for the first 77 miles, instead pursuing a method that reboots the",,,,,,,,,"10,600",$3.00,,,
+6,water permitting process,,,for the full,length of,the pipeline.,,Regulatory,,"10,200",,Jul-14,,
+7,,,,,,,,,,,$2.50,,,
+8,uncertainty,due to,administrative,,changeover,and,attitudes,have,only,"9,800",,Nov-14,,
+9,,,,,,,,,,,$2.00,,,
+10,increased.,"The path forward for MVP is uncertain, but we still believe it",,,,,,,,"9,400",,Mar-15,,
+11,gets completed –,,the,biggest question,is,when.,We,are,currently,"$1.50 9,000",,Jul-15,,
+12,holding an,estimated,,service date,for EOY,"2021,",but,only because,it,"Nov-15 8,600",$1.00,,,
+13,seems unclear,if we should delay,,,the project completion,,,to the first or,,"8,200",$0.50,Mar-16,,
+
+Table number: 12,1/29/2021,Dry Production,Unnamed: 0,Rigs,Unnamed: 1,Unnamed: 2,Avg IP's,Well,Unnamed: 3,Unnamed: 4,Dom,1/29/2021.1,Dry Production.1,Unnamed: 5,Rigs.1,Unnamed: 6,Unnamed: 7,Avg IP's.1,Well.1,Unnamed: 8,Unnamed: 9,Dom.1,Unnamed: 10
+0,Ohio,mmcfd Yr/Yr,Gas,,Oil,,mcfd,Count,,,Price,Michigan,mmcfd Yr/Yr,Gas,,Oil,,mcfd,Count,,,Price,
+1,Winter '20/'21,"6,146 (582)",,4.0,,3.0,"14,180",91,,$,2.22,Winter '20/'21,195 (9),-,,,1.0,35,,2.0,$,,2.22
+2,Summer '21,"6,061 (380)",,4.0,,7.0,"14,394",161,,$,2.00,Summer '21,191 (9),-,,,2.0,35,,1.0,$,,2.0
+3,Winter '21/'22,"6,605 459",,4.0,,7.0,"14,611",142,,$,2.33,Winter '21/'22,186 (9),-,,,2.0,35,,3.0,$,,2.33
+4,2021,"6,098 (323)",,4.0,,6.0,"14,376",264,,$,2.08,2021,191 (9),-,,,1.0,35,,2.0,$,,2.08
+5,2022,"6,953 855",,4.0,,6.0,"14,813",324,,$,1.99,2022,183 (9),-,,,1.0,35,,4.0,$,,1.99
+
+Table number: 13,1/29/2021,Dry Production,Unnamed: 0,Rigs,Unnamed: 1,Avg IP's,Well,Unnamed: 2,Dom,1/29/2021.1,Dry Production.1,Unnamed: 3,Rigs.1,Unnamed: 4,Unnamed: 5,Avg IP's.1,Well.1,Unnamed: 6,Dom.1,Unnamed: 7
+0,Pennsylvania,mmcfd Yr/Yr,Gas,,Oil,mcfd,Count,,Price,W. Virginia,mmcfd Yr/Yr,Gas,,Oil,,mcfd,Count,,Price,
+1,Winter '20/'21,"20,009 447",22,,-,"17,600",228,$,2.22,Winter '20/'21,"7,075 1,006",,9.0,,0.0,"10,140",207,$,,2.22
+2,Summer '21,"20,137 1,180",28,,-,"16,000",327,$,2.00,Summer '21,"6,678 265",12,,,0.0,"10,500",194,$,,2.0
+3,Winter '21/'22,"20,809 800",27,,-,"16,000",273,$,2.33,Winter '21/'22,"6,639 (436)",11,,,0.0,"10,500",154,$,,2.33
+4,2021,"20,217 981",26,,-,"16,000",577,$,2.08,2021,"6,767 335",11,,,0.0,"10,500",348,$,,2.08
+5,,,,,,,,,,2022,"6,534 (233)",12,,,0.0,"10,500",347,$,,1.99
+
+Table number: 14,"8,000","7,000",Unnamed: 0
+0,,,Nov-18
+1,"7,500","6,500",Mar-19
+2,,,Jul-19
+3,"7,000","6,000",Nov-19
+4,,,Mar-20
+5,"6,500","5,500",Jul-20
+6,,,Nov-20
+7,"6,000","5,000",
+8,,,Mar-21
+9,,,Jul-21
+10,"5,500","4,500",
+11,,,Nov-21
+12,,,Mar-22
+13,"5,000","4,000",
+
+Table number: 15,1/29/2021 Dry Production,Unnamed: 0,Rigs,Unnamed: 1,Unnamed: 2,Avg IP's,Well,Unnamed: 3,NYMEX,Aug-20
+0,,,Jan-21,,,,,,,
+1,Gulf Coast mmcfd Yr/Yr,Gas,Oil,,,mcfd,Count,,Price,Jan-21
+2,"Winter '20/'21 9,040 14",2J9un-  2  1,,,3.0,"11,787",177,$,2.66,
+3,"Summer '21 9,313 547",33,,,6.0,"11,548",285,$,2.71,Jun-21
+4,"Winter '21/'22 9,889 849",3N4ov - 2  1,,,6.0,"11,909",216,$,2.95,
+5,,,,,,,,,,Nov-21
+6,"2021 9,313 456",32,,,6.0,"11,620",469,$,2.74,
+7,"Apr-222022 10,421 1,108",34,,,4.0,"12,525",518,$,2.64,
+
+Table number: 16,"12,000",250,Unnamed: 0,Unnamed: 1,mmcfd,Unnamed: 2
+0,"11,000","2,500",,,,"16,000"
+1,Jan-16,,,,,
+2,"10,000","200  2,000",,,,"14,000"
+3,"9,000 Jun-16","1,500",Jan-16,,,"12,000"
+4,,150,,,,
+5,"8,000 Nov-16","1,000",Jun-16,,,"10,000"
+6,"7,000",,,,,"8,000"
+7,Apr-17,100  500,Nov-16,,,
+8,"6,000",,,,,"6,000"
+9,Apr-17Sep-17,-,,,,
+10,"5,000",50,,,,"4,000"
+11,"2,000 4,000Feb-18",(500),Sep-17,,,
+12,,,Feb-18,,,
+
+Table number: 17,Gulf Coast,Dec-20,Jan-21,Feb-21,Mar-21,Apr-21,May-21,Jun-21,Jul-21,Aug-21,Sep-21,Oct-21,Nov-21
+0,Dry Prod (mmcfd),"9,089","9,026","9,024","9,022","9,076","9,134","9,204","9,290","9,388","9,494","9,601","9,700"
+1,Yr/Yr (mmcfd),(58),112,120,41,37,(91),292,646,875,"1,072","1,002",661
+2,Gas Rigs,26,27,30,31,32,33,33,33,33,33,33,34
+3,Oil Rigs,3,3,4,4,5,6,6,8,8,7,6,6
+4,Well Count,39,35,31,32,36,38,39,41,43,45,44,43
+5,IP (mcfd/well),"11,644","11,340","11,993","11,783","11,683","11,664","11,632","11,583","11,514","11,317","11,443","11,685"
+
+Table number: 18,Jun-16,Unnamed: 0,Unnamed: 1,Jan-16
+0,Gulf Coast Regional ANovn-1a6 lysis,,,Jun-16
+1,We kept our 2021 producAptiro-1n7 growth estimate relatively,,,Nov-16
+2,"unchanged, now at a +0.46 bSecpf-d17yr/yr increase (vs. +0.46 bcfd",,,Apr-17
+3,yr/yr increase in our previousFebm-1a8 in forecast update). We are,,,Sep-17
+4,"increasing our 2022 productioJnul-1e8stimate by ~230 mmcfd, at",a,,Feb-18
+5,+1.11 bcfd yr/yr increase (Dvesc.-18a +0.88 bcfd yr/yr increase,,,Jul-18
+
+Table number: 19,60,Unnamed: 0,$4.50,40,Unnamed: 1,$80
+0,,,,,Jan-21,
+1,,Jan-21,,35.0,,$70
+2,50.0,,$4.00,,Jun-21,
+3,,Jun-21,,30.0,,$60
+4,,,,,Nov-21,
+5,40.0,$3.50Nov-21,,25.0,$50Apr-22,
+6,30.0,Apr-22,$3.00,20.0,$40Sep-22,
+7,,,,15.0,,$30
+8,20.0,Sep-22,$2.50,,,
+9,,,,10.0,,$20
+10,10.0,,$2.00,5.0,,$10
+11,0.0,,$1.50,0.0,,$0
+
+Table number: 20,Unnamed: 0,Unnamed: 1,250,Unnamed: 2,Unnamed: 3,mmcfd,Unnamed: 4
+0,,,"2,500",,,,
+1,,Jan-16,"200  2,000",,,,
+2,,Jun-16,,,,,
+3,,,"1,500",Jan-16,,,
+4,,,150,,,,
+5,,Nov-16,"1,000",Jun-16,,,
+6,,Apr-17,100  500,Nov-16,,,
+7,,Apr-17Sep-17,-,,,,
+8,,,50,,,,
+9,,Feb-18,(500),Sep-17,,,
+10,,,"(1,000)",Feb-18,,,
+11,,Jul-18,-,,,,
+12,,,,Jul-18,,,
+13,,Dec-18,,Dec-18,,,
+14,,May-19,,May-19,,,
+15,,,,,,Dry Production Yr/Yr,IP's
+16,Dry Production,Prev POrocdt-n19,Well Count,Oct-19,,,
+
+Table number: 21,"temporarily, the January softening",Unnamed: 0,of production,may,well,soon,Unnamed: 1,Unnamed: 2,Unnamed: 3,"5,000",Unnamed: 4,1.80,Unnamed: 5
+0,reverse as completion crews,,also get back,to work.,That,"said,",,,,"4,500",,1.6,
+1,,,,,,,,,,"4,000",,,
+2,backwardation in the NYMEX,,curve (JV,"2021 at $2.77,",,while,JV,,,,,1.4,
+3,,,,,,,,,,"3,500",,1.2,
+4,2022 at $2.50) creates some risk,,that operators could continue,,,,to,,,"3,000",,,
+5,,,,,,,,,,,,1.0,
+6,be conservative in deployment,,of new,activity as,,the year,,,,"2,500",,,
+7,,,,,,,,,,,,0.8,
+8,"progresses. Also, the broader industry priorities of FCF generation mcfd",,,,,,,,,"2,000",mcfd,,mcfd
+9,,,,,,,,,,"1,500",,0.6,
+10,to pay down debt means there,,are other,options for using,,cash,,,,,,,
+11,,,,,,,,,,"1,000",,0.4,
+12,"besides more drilling. On the other hand, 2021 forward prices are",,,,,,,,,500,,0.2,
+
+Table number: 22,Unnamed: 0,Unnamed: 1,"4,500",Unnamed: 2,Unnamed: 3,Unnamed: 4
+0,,May-19,,May-19,14.0,May-19
+1,,,"4,000",,,
+2,"8,500",Oct-19,"3,500",Oct-19,12.0,Oct-19
+3,,Mar-20,"3,000",Mar-20,10.0,Mar-20
+4,"8,000",Aug-20,"2,500",Aug-20,8.0,Aug-20
+5,,,"2,000",,,
+6,,Jan-21,,,6.0,
+7,,,"1,500",Jan-21,,Jan-21
+8,"7,500",Jun-21,"1,000",Jun-21,4.0,Jun-21
+9,,Nov-21,500,,2.0,
+10,,,,Nov-21,,Nov-21
+
+Table number: 23,1/29/2021,Dry Production,Unnamed: 0,Rigs,Unnamed: 1,Unnamed: 2,Avg IP's,Well,Unnamed: 3,NYMEX,1/29/2021.1,Dry Production.1,Unnamed: 4,Rigs.1,Unnamed: 5,Unnamed: 6,Avg IP's.1,Well.1,Unnamed: 7,Unnamed: 8,NYMEX.1
+0,North LA,mmcfd Yr/Yr,Gas,,Oil,,mcfd,Count,,Price,South LA,mmcfd Yr/Yr,Gas,,Oil,,mcfd,Count,,,Price
+1,Winter '20/'21,"8,106 18",26,,,1.0,"13,392",155,$,2.66,Winter '20/'21,533 14,,2.0,,1.0,"1,037",,16.0,$,2.66
+2,Summer '21,"8,431 562",30,,,3.0,"13,799",237,$,2.71,Summer '21,493 (3),,2.0,,2.0,"1,049",,22.0,$,2.71
+3,Winter '21/'22,"9,037 931",31,,,3.0,"14,218",180,$,2.95,Winter '21/'22,473 (60),,2.0,,1.0,"1,062",,16.0,$,2.95
+4,2021,"8,421 476",30,,,3.0,"13,766",392,$,2.74,2021,501 (4),,2.0,,2.0,"1,048",,38.0,$,2.74
+5,2022,"9,595 1,174",31,,,2.0,"14,615",440,$,2.64,2022,456 (45),,2.0,,1.0,"1,074",,37.0,$,2.64
+
+Table number: 24,1/29/2021,Dry Production,Unnamed: 0,Rigs,Unnamed: 1,Avg IP's,Well,Unnamed: 2,Unnamed: 3,NYMEX,1/29/2021.1,Dry Production.1,Unnamed: 4,Rigs.1,Unnamed: 5,Unnamed: 6,Avg IP's.1,Well.1,Unnamed: 7,Unnamed: 8,NYMEX.1
+0,Alabama,mmcfd Yr/Yr,Gas,,Oil,mcfd,Count,,,Price,Mississippi,mmcfd Yr/Yr,Gas,,Oil,,mcfd,Count,,,Price
+1,Winter '20/'21,289 (13),-,,-,668,,1.0,$,2.66,Winter '20/'21,111 (4),,0.0,,1.0,155,,6.0,$,2.66
+2,Summer '21,280 (6),-,,-,676,-,,$,2.71,Summer '21,108 (6),,0.0,,2.0,157,,27.0,$,2.71
+3,Winter '21/'22,272 (17),-,,-,685,-,,$,2.95,Winter '21/'22,107 (4),,0.0,,1.0,159,,20.0,$,2.95
+4,2021,281 (11),-,,-,676,-,,$,2.74,2021,108 (6),,0.0,,2.0,157,,40.0,$,2.74
+5,2022,265 (16),-,,-,692,-,,$,2.64,,,,,,,,,,,
+
+Table number: 25,"4.00In the Haynesville, we indeed saw the rise of production into winter, 18,000",Unnamed: 0
+0,"16,000",3.5
+1,"with December production averaging 8.1 bcfd, as compared to  14,000",3.0
+2,"October production averaging 7.7 bcfd – essentially curtailed  12,000",
+3,,2.5
+4,"summer production acting as synthetic winter storage draws.  10,000",
+5,,2.0
+6,"However, Haynesville has since leveled off both in terms of daily  8,000",
+7,"6,000",1.5
+8,pipeline production nominations and had a dip in rigs. January is,
+9,"4,000",1.0
+10,"averaging just over 8.05 bcfd, which was slightly impacted by a brief  2,000",0.5
+
+Table number: 26,Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Aug-20
+0,1/29/2021,Dry Production,,Rigs,,Avg IP's,Well,,HSC,,
+1,,,,Jan-21,,,,,,,
+2,South Texas,mmcfd Yr/Yr,Gas,Oil,,mcfd,Count,,Price,,Jan-21
+3,Winter '20/'21,"5,578 (850)",,J5un - 2  1,34.0,"2,732",339,$,,2.65,
+4,Summer '21,"5,555 (117)",,9,58.0,"2,887",658,$,,2.67,Jun-21
+5,Winter '21/'22,"5,876 299",1N1ov - 2,1,59.0,"2,919",589,$,,2.89,Nov-21
+6,2021,"5,595 (254)",,8,53.0,"2,856","1,106",$,,2.7,
+7,,,,Apr-22,,,,,,,
+8,2022,"6,088 493",10,,54.0,"2,969","1,334",$,,2.58,Apr-22
+
+Table number: 27,South Texas,Dec-20,Jan-21,Feb-21,Mar-21,Apr-21,May-21,Jun-21,Jul-21,Aug-21,Sep-21,Oct-21,Nov-21
+0,Dry Prod (mmcfd),"5,589","5,575","5,565","5,528","5,493","5,480","5,493","5,526","5,569","5,628","5,697","5,764"
+1,Yr/Yr (mmcfd),(860),(881),(846),(872),(771),(63),6,5,(29),(23),55,133
+2,Gas Rigs,5,4,5,6,9,9,9,9,9,9,10,10
+3,Oil Rigs,32,32,37,41,46,50,55,61,64,64,63,62
+4,Well Count,69,81,72,58,67,75,87,94,102,113,119,119
+5,IP (mcfd/well),"2,627","2,739","2,704","2,844","2,843","2,870","2,924","2,918","2,896","2,879","2,877","2,878"
+
+Table number: 28,Seasonal Data Aug-20,Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Mar-20,Unnamed: 6,Unnamed: 7
+0,,,,,,,,Aug-20,,
+1,1/29/2021 Dry Production Rigs,,Avg IP's,Well,,HSC,,,,
+2,Jan-21,,,,,,,,,
+3,South Texas mmcfd Yr/Yr Gas Oil,,mcfd,Count,,Price,,Jan-21,,
+4,"Winter '20/'21 5,578 (850) J5un - 2  1",34.0,"2,732",339,$,2.65,,,,
+5,"Summer '21 5,555 (117) 9",58.0,"2,887",658,$,2.67,,Jun-21,,
+6,"Winter '21/'22 5,876 299 1N1ov - 21",59.0,"2,919",589,$,2.89,,Nov-21,,
+7,"2021 5,595 (254) 8",53.0,"2,856","1,106",$,2.70,,,,
+8,Apr-22,,,,,,,,,
+9,"2022 6,088 493 10",54.0,"2,969","1,334",$,2.58,,Apr-22,,
+10,Sep-22,,,,,,,Sep-22,,
+11,Dry Production vs. Well Count,,,,,,Year on Year Production Changes vs. IP Rates,,,
+12,"8,500",,,600,,"1,500",,,mmcfd,"3,500"
+13,"8,000",,,,,,,,,
+14,"7,500 Jan-16",,,500,,"1,000",,,,"3,000"
+15,"7,000",,,,,500,,,,"2,500"
+16,Jun-16,,,400,,,,Jan-16,,
+17,"6,500",,,,,-,,,,"2,000"
+18,"Jun-16 6,000 Nov-16",,,300,,,,,,
+19,"5,500 Apr-17",,,,,(500),,Nov-16,,"1,500"
+20,"5,000",,,200,,"(1,000)",,Apr-17,,"1,000"
+21,"4,500 Sep-17",,,100,,"(1,500)",,Sep-17,,500
+22,"4,000 Feb-18",,,,,,,,,
+23,"3,500",,,-,,"(2,000)",,Feb-18,,-
+24,Jul-18,,,,,,,,,
+25,,,,,,,,Jul-18,,
+26,Dec-18,,,,,,,Dec-18,,
+27,May-19,,,,,,,May-19,,
+28,Dry Production Prev Prodn,,Well Count,,,,,,Dry Production Yr/Yr IP's,
+29,Oct-19,,,,,,,Oct-19,,
+30,Gas Rigs vs. GaMsar -P20rice,,,,,,,Mar-20,Oil Rigs vs. Oil Price,
+31,Aug-20,,,,,,,Aug-20,,
+32,60,,,$4.50,,160,,,,$80
+33,Jan-21Jan-21,,,,,140,,,,$70
+34,50,,,$4.00,,,,Jun-21,,
+35,Jun-21,,,,,120,,,,$60
+36,40,,,$3.50,,,,Nov-21,,
+37,Nov-21,,,,,100,,,,$50
+38,,,,,,,,Apr-22,,
+39,30 Apr-22,,,$3.00,,80,,,,$40
+40,,,,,,,,Sep-22,,
+41,20 Sep-22,,,$2.50,,60,,,,$30
+42,,,,,,40,,,,$20
+43,10,,,$2.00,,,,,,
+44,,,,,,20,,,,$10
+45,0,,,$1.50,,0,,,,$0
+
+Table number: 29,"3,000",Unnamed: 0,4.50,Unnamed: 1,Sep-22,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5
+0,,,4.00,"4,500",,,,,
+1,"2,500",,,"4,000",,,2.5,,
+2,,,3.50,,,,,,
+3,,,,"3,500",,,,,
+4,"2,000",,3.00,,,,2.0,,
+5,,,,"3,000",,,,,mcfd
+6,,,2.5m0cfd,,,mcfd,,,
+7,"1,500",,,"2,500",,,1.5,,
+8,,,2.00,"2,000",,,,,
+9,"1,000",,1.50,"1,500",,,1.0,,
+10,,Jan-16,1.00,"1,000",Jan-16,,,,
+11,500,,,,,,0.5,Jan-14,
+12,,Jun-16,0.50,500,Jun-16,,,Jul-14,
+
+Table number: 30,Unnamed: 0,May-19,"11,000",Unnamed: 1,May-19.1,7.50 Jan-18
+0,,4.00,"10,000",,,
+1,"2,500",Oct-19  3.50,"9,000",,Oct-19,6.50Jul-18
+2,"2,000",Mar-20  3.00,"8,000",,Mar-20,5.50 Jan-19
+3,"1,500","Aug-20  2.50 6,000 2.00","7,000",,Aug-20,4.50 Jul-19
+4,,Jan-21,"5,000",,Jan-21,3.50 Jan-20
+5,"1,000",1.50,,,,
+6,,"4,000Jun-21  1.00",,,Jun-21,2.50 Jul-20
+7,500,,"3,000",,,
+8,,Nov-21  0.50,"2,000",,Nov-21,1.50 Jan-21
+
+Table number: 31,1/29/2021,Dry Production,Unnamed: 0,Rigs,Unnamed: 1,Unnamed: 2,Avg IP's,Well,Unnamed: 3,HSC,1/29/2021.1,Dry Production.1,Unnamed: 4,Rigs.1,Unnamed: 5,Unnamed: 6,Avg IP's.1,Well.1,Unnamed: 7,HSC.1,Unnamed: 8
+0,District 1,mmcfd Yr/Yr,Gas,,Oil,,mcfd,Count,,Price,District 2,mmcfd Yr/Yr,Gas,,Oil,,mcfd,Count,,Price,
+1,Winter '20/'21,"1,542 (165)",,0.0,,11.0,"1,477",129,$,2.65,Winter '20/'21,"1,584 (187)",,2.0,,14.0,"2,957",112,$,,2.65
+2,Summer '21,"1,483 (48)",,1.0,,20.0,"1,495",229,$,2.67,Summer '21,"1,580 43",,3.0,,24.0,"2,975",235,$,,2.67
+3,Winter '21/'22,"1,502 (40)",,1.0,,20.0,"1,513",204,$,2.89,Winter '21/'22,"1,710 126",,4.0,,25.0,"2,992",210,$,,2.89
+4,2021,"1,497 (78)",,1.0,,18.0,"1,493",394,$,2.70,2021,"1,596 (15)",,3.0,,22.0,"2,973",385,$,,2.7
+5,2022,"1,513 16",,1.0,,18.0,"1,529",457,$,2.58,2022,"1,784 188",,4.0,,23.0,"3,009",476,$,,2.58
+
+Table number: 32,1/29/2021,Dry Production,Unnamed: 0,Rigs,Unnamed: 1,Unnamed: 2,Avg IP's,Well,Unnamed: 3,Unnamed: 4,HSC,1/29/2021.1,Dry Production.1,Unnamed: 5,Rigs.1,Unnamed: 6,Unnamed: 7,Avg IP's.1,Well.1,Unnamed: 8,Unnamed: 9,HSC.1,Unnamed: 10
+0,District 3,mmcfd Yr/Yr,Gas,,Oil,,mcfd,Count,,,Price,District 4,mmcfd Yr/Yr,Gas,,Oil,,mcfd,Count,,,Price,
+1,Winter '20/'21,537 (116),,1.0,,6.0,"1,332",41,,$,2.65,Winter '20/'21,"1,914 (382)",,2.0,,4.0,"6,101",57,,$,,2.65
+2,Summer '21,512 (80),,1.0,,8.0,"1,348",70,,$,2.67,Summer '21,"1,979 (33)",,4.0,,5.0,"6,174",124,,$,,2.67
+3,Winter '21/'22,509 (27),,1.0,,9.0,"1,364",63,,$,2.89,Winter '21/'22,"2,155 240",,5.0,,6.0,"6,249",111,,$,,2.89
+4,2021,517 (85),,1.0,,8.0,"1,346",121,,$,2.70,2021,"1,986 (76)",,3.0,,5.0,"6,168",205,,$,,2.7
+5,2022,506 (10),,1.0,,8.0,"1,379",142,,$,2.58,,,,,,,,,,,,
+
+Table number: 33,Jan-16,Jan-16.1
+0,South Texas Regional AnalysJuins-16 (cont.),South Texas Wet GasJu nP-1r6oduction vs. Processing Capacity
+1,Biggest Impact / Risks / AssumptioNnovs-16,"12,000 Nov-16"
+2,South Texas rig counts have mellowed out sAinprc-1e7 our last,"11,000 Apr-17"
+3,forecast and are unchanged over the last mSeop-n17th and a,"10,000 Sep-17"
+4,half. We think rigs will almost double by thFeebe-1n8 d of the,Feb-18
+5,,"9,000"
+6,"year, growing to 72 rigs by the end of 2021 J(uul-1p8 from 40",Jul-18
+7,,"8,000"
+8,rigs currently). We believe production in thDisec-r1e8gion will,Dec-18
+9,"bottom out in Q2 and then will start to grow aMgaya-1in9 , adding","7,000May-19"
+10,more than 300 mmcfd by the end of the year due to a,"6,000"
+11,Oct-19,Oct-19
+12,combination of DUC deferrals coming online and the rig,
+13,Mar-20,"5,000 Mar-20"
+14,additions helping to start overcoming the base declines.,
+15,Aug-20,Aug-20
+
+Table number: 34,Unnamed: 0,Unnamed: 1,Unnamed: 2,Jan-21,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8
+0,1/29/2021,Dry Production,,Rigs,Avg IP's,Well,,TxOK,,
+1,,,,,,,,,,Jan-21
+2,East Texas,mmcfd Yr/Yr,Gas,Jun-2O1il,mcfd,Count,,Price,,
+3,Winter '20/'21,"5,567 (332)",18,9,"4,209",124,$,2.53,,Jun-21
+4,Summer '21,"5,588 (184)",24No v  - 2  1,16,"4,231",306,$,2.53,,
+5,,,,,,,,,,Nov-21
+6,Winter '21/'22,"5,720 153",25,2.76Apr-2216,"4,285",254,$,,,
+7,2021,"5,598 (183)",23,14,"4,400",489,$,2.56,,Apr-22
+8,2022,"5,803 205",25Sep,- 2  215,"4,238",610,$,2.47,,
+
+Table number: 35,Unnamed: 0,Jan-21,Unnamed: 1,70,Jan-21.1,$70
+0,50.0,,$4.00,,Jun-21,
+1,,Jun-21,,60.0,,$60
+2,40.0,,$3.50,,Nov-21,
+3,,Nov-21,,50.0,,$50
+4,,,,,Apr-22,
+5,30.0,Apr-22,$3.00,40.0,,$40
+6,,,,,Sep-22,
+7,20.0,Sep-22,$2.50,30.0,,$30
+8,,,,20.0,,$20
+9,10.0,,$2.00,,,
+10,,,,10.0,,$10
+
+Table number: 36,East Texas,Dec-20,Jan-21,Feb-21,Mar-21,Apr-21,May-21,Jun-21,Jul-21,Aug-21,Sep-21,Oct-21,Nov-21
+0,Dry Prod (mmcfd),"5,554","5,544","5,561","5,579","5,562","5,554","5,558","5,573","5,595","5,623","5,651","5,678"
+1,Yr/Yr (mmcfd),(283),(367),(357),(413),(405),(277),(261),(195),(100),(54),2,79
+2,Gas Rigs,17,18,19,20,22,23,24,24,24,24,24,25
+3,Oil Rigs,8,8,9,11,12,14,15,17,17,17,17,17
+4,Well Count,23,24,27,32,35,38,42,45,47,49,50,50
+5,IP (mcfd/well),"3,296","5,329","5,120","4,134","4,149","4,181","4,191","4,223","4,264","4,297","4,309","4,311"
+
+Table number: 37,"7,000",Unnamed: 0,300,"1,000",Unnamed: 1,mmcfd,"8,000"
+0,,,,,,,"7,000"
+1,"6,500",Jan-16,250,500,,,
+2,,,,,,,"6,000"
+3,,Jun-16,200,,Jan-16,,
+4,"6,000",,,-,,,"5,000"
+5,,Nov-16,150,,Jun-16,,"4,000"
+6,"5,500",Apr-17,,(500),Nov-16,,
+7,,,100,,,,"3,000"
+8,,,,,Apr-17,,"2,000"
+9,"5,000",Sep-17,50,"(1,000)",,,
+10,,,,,Sep-17,,
+11,,Feb-18,,,,,"1,000"
+12,"4,500",,-,"(1,500)",Feb-18,,-
+
+Table number: 38,Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Apr-17
+0,With rigs,more,than,doubling,in,thisSepr-1e6gion,since,,,
+1,,,,,,,,,"6,800",Sep-17
+2,"bottoming in May 2020 (11 rigs to 28 rigs Fceub-r1r7ently), East",,,,,,,,,
+3,,,,,,,,,"6,600",Feb-18
+4,Texas is,poised,to start,growing,,"againJu,l-17led by",the,,,
+5,,,,,,,,,,Jul-18
+6,Haynesville play in Texas District 6.,,,,Based on current oil,,,,"6,400",
+7,,,,,,Dec-17,,,,Dec-18
+8,"and gas prices, we expect rigs to continue to grow to 42",,,,,,,,"6,200",
+9,,,,,,May-18,,,,May-19
+10,rigs by the beginning of 2022.,,,Production is due to grow,,,,,"6,000",
+11,,,,,,Oct-18,,,,Oct-19
+12,around 200 mmcfd per year over,,,,"the next couple years,",,,,"5,800",
+13,,,,,,Mar-19,,,,Mar-20
+14,with more upside risk due to the potential impact of higher,,,,,,,,,
+15,,,,,,Aug-19,,,"5,600",Aug-20
+16,and higher,IPs in,the,Haynesville.,,We have assumed,,,,
+17,,,,,,Jan-20,,,"5,400",Jan-21
+18,average IPs,of 8 mmcfd,,in this play,,"in the forecast, but",,,,
+
+Table number: 39,1/29/2021,Dry Production,Unnamed: 0,Rigs,Unnamed: 1,Unnamed: 2,Avg IP's,Well,Unnamed: 3,Unnamed: 4,TxOK,1/29/2021.1,Dry Production.1,Unnamed: 5,Rigs.1,Unnamed: 6,Unnamed: 7,Avg IP's.1,Well.1,Unnamed: 8,Unnamed: 9,TxOK.1
+0,District 5,mmcfd Yr/Yr,Gas,,Oil,,mcfd,Count,,,Price,District 6,mmcfd Yr/Yr,Gas,,Oil,,mcfd,Count,,,Price
+1,Winter '20/'21,"1,452 (144)",,1.0,,1.0,"3,166",,7.0,$,2.53,Winter '20/'21,"3,067 (105)",11,,,7.0,"8,400",57,,$,2.53
+2,Summer '21,"1,431 (98)",,2.0,,2.0,"3,204",,44.0,$,2.53,Summer '21,"3,135 (38)",13,,,12.0,"8,400",131,,$,2.53
+3,Winter '21/'22,"1,430 (22)",,3.0,,2.0,"3,243",,37.0,$,2.76,Winter '21/'22,"3,286 219",14,,,12.0,"8,400",110,,$,2.76
+4,2021,"1,433 (103)",,2.0,,2.0,"3,201",,65.0,$,2.56,2021,"3,140 (22)",12,,,11.0,"8,400",218,,$,2.56
+5,2022,"1,422 (12)",,3.0,,2.0,"3,279",,90.0,$,2.47,2022,"3,392 252",13,,,12.0,"8,400",260,,$,2.47
+
+Table number: 40,1/29/2021,Dry Production,Unnamed: 0,Rigs,Unnamed: 1,Unnamed: 2,Avg IP's,Well,Unnamed: 3,Unnamed: 4,TxOK,1/29/2021.1,Dry Production.1,Unnamed: 5,Rigs.1,Unnamed: 6,Unnamed: 7,Avg IP's.1,Well.1,Unnamed: 8,Unnamed: 9,TxOK.1
+0,District 7B,mmcfd Yr/Yr,Gas,,Oil,,mcfd,Count,,,Price,District 9,mmcfd Yr/Yr,Gas,,Oil,,mcfd,Count,,,Price
+1,Winter '20/'21,229 (17),,5.0,,0.0,63,22,,$,2.53,Winter '20/'21,819 (65),,1.0,,1.0,745,38,,$,2.53
+2,Summer '21,222 (15),,7.0,-,,64,67,,$,2.53,Summer '21,799 (33),,2.0,,1.0,754,63,,$,2.53
+3,Winter '21/'22,217 (13),,7.0,-,,65,54,,$,2.76,Winter '21/'22,788 (31),,2.0,,2.0,763,53,,$,2.76
+4,2021,223 (16),,7.0,-,,64,105,,$,2.56,2021,802 (42),,2.0,,1.0,753,100,,$,2.56
+5,2022,212 (11),,7.0,-,,67,135,,$,2.47,2022,778 (24),,2.0,,1.0,772,125,,$,2.47
+
+Table number: 41,"8,000",10.00,"20,000",3.00
+0,"7,000",9.0,"18,000",2.5
+
+Table number: 42,"8,000",Unnamed: 0,Unnamed: 1,Unnamed: 2,10.00,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8
+0,"7,000",,,,"9.00  18,000",,,,,,
+1,,,,,"8.0m0 cfd  16,000",,,mcfd,,,2.50
+2,"6,000",,,,,,,,,,
+3,,,,,"7.00  14,000",,,,,,2.00
+4,"5,000",,,,"6.00  12,000",,,,,,
+5,"4,000",,,,"5.00  10,000",,,,,,1.50
+6,,,,Jan-16,,,,,,,
+7,"3,000",,,,"4.00 8,000",Jan-16,,,,Jan-14,1.00
+8,,,,Jun-16,"3.00  6,000",,,,,,
+9,"2,000",,,,,Jun-16,,,,Jul-14,
+10,,,,,"2.00  4,000",,,,,,0.50
+11,"1,000",,,Nov-16,"1.00  2,000",Nov-16,,,,Jan-15,
+12,-,,,Apr-17,-  -,Apr-17,,,,Jul-15,-
+13,,,,Sep-17,,,,,,,
+14,,,,,,Sep-17,,,,Jan-16,
+15,,,,Feb-18,,,,,,,
+16,,,,,,Feb-18,,,,Jul-16,
+17,,IP Fcst,Prev IP Fcst,Wells/RigJu Ml-1o8nth,,IP Fcst,Prev IP Fcst,Wells/Rig Month,,,
+18,,,,,,Jul-18,,,,Jan-17,
+19,,,,Dec-18,,,,,,,
+20,,Jul-17Texas District 7B IP’s vs. Rig Efficiencies,,,,Dec-18 Texas District 9 IP’s vs. Rig Efficiencies,,,,,
+21,,,,May-19,,,,,,,
+22,,,,,,May-19,,,,Jan-18,
+23,900,,,Oct-19,"10.00  1,400",16.00Oct-19,,,,Jul-18,
+24,800,,,Mar-20,"9.00  1,200",Mar-20,,,,14.00Jan-19,
+25,700,,,,8.00,,,,,,
+26,,,,Aug-20,"12.00 1,000",,,,,,
+27,600,,,,7.00,Aug-20,,,,Jul-19,
+28,500,,,Jan-21,6.00 Jan-21 5.00  800,,,,,10.00Jan-2 08.00,
+29,400,,,Jun-21,,,,,,,
+30,,,,,4.00  600,Jun-21,,,,Jul-20,
+31,300,,,Nov-21,3.00  400,,,,,6.00,
+32,200,,,,Jan-2 14.00 2.00,Nov-21,,,,,
+33,,,,Apr-22,,,,,,,
+34,100,,,,1.00  200,Apr-22,,,,Jul-2 12.00,
+
+Table number: 43,1/29/2021,Dry Production,Unnamed: 0,RJiagns-21,Unnamed: 1,Avg IP's,Well,Unnamed: 2,PEPL,Jan-21
+0,Mid Continent,mmcfd Yr/Yr,Gas,Oil,,mcfd,Count,,Price,
+1,Winter '20/'21,"9,023 (1,084)",,4Jun- 2  1,26.0,"1,211",513,$,2.43,Jun-21
+2,Summer '21,"8,309 (802)",,7,48.0,932,886,$,2.40,
+3,,,,Nov-21,,,,,,Nov-21
+4,Winter '21/'22,"7,933 (1,089)",,8,50.0,893,772,$,2.71,
+5,2021,"8,418 (902)",,7Ap r  - 2  2,44.0,959,"1,482",$,2.45,Apr-22
+6,2022,"7,739 (679)",,8,46.0,911,"1,731",$,2.32,
+
+Table number: 44,Mid Continent,Dec-20,Jan-21,Feb-21,Mar-21,Apr-21,May-21,Jun-21,Jul-21,Aug-21,Sep-21,Oct-21,Nov-21
+0,Dry Prod (mmcfd),"9,048","9,088","8,947","8,841","8,647","8,462","8,385","8,277","8,184","8,128","8,077","8,003"
+1,Yr/Yr (mmcfd),"(1,250)","(1,076)",(947),(924),"(1,044)",(557),(851),(550),(633),"(1,042)",(940),"(1,186)"
+2,Gas Rigs,4,4,5,6,6,7,8,8,8,7,7,8
+3,Oil Rigs,24,25,27,33,36,41,47,53,54,54,53,52
+4,Well Count,118,109,87,85,84,101,112,125,144,159,161,160
+5,IP (mcfd/well),"1,412","1,140","1,018","1,038",955,946,941,940,926,913,905,899
+
+Table number: 45,"13,000",Unnamed: 0,"1,500","2,400"
+0,,"1,000",,
+1,,,,"2,200"
+2,"12,000 Jan-16","2,000 800","1,000",
+3,"11,000 Jun-16",,500 Jan-16,"1,800"
+4,"10,000 Nov-16",600,- Jun-16,"1,600"
+5,,,,"1,400"
+6,"9,000 Apr-17",400,(500)Nov-16,"1,200"
+7,"Apr-17 8,000 Sep-17",,"(1,000)","1,000"
+8,,200,Sep-17,800
+9,"7,000 Feb-18",,"(1,500)",
+10,,,Feb-18,600
+
+Table number: 46,Jun-16,Unnamed: 0,Jan-16
+0,Mid Continent RegionNaovl-1 A6 nalysis,,Jun-16
+1,"Our 2021 production estimate is Ainprc-1r7eased by ~210 mmcfd, with our",,Nov-16
+2,latest expectation at an yr/yr decreSeaps-1e7 of -0.90 bcfd (vs. a decrease of,,Apr-17
+3,"-1.11 bcfd yr/yr previously, maiFnelby-18due to increasing",because of,Sep-17
+4,recent actuals in Oklahoma. WJuel-18are decreasing,our 2022 yr/yr,Feb-18
+5,"forecast by ~10 mmcfd, now at a -0.68 bcfd yr/yr",decrease (vs. a -,Jul-18
+
+Table number: 47,Unnamed: 0,May-19,"4,500",May-19.1,3.50,May-19.2
+0,160.0,11.00,"4,000",,,
+1,,Oct-19,,Oct-19,3.0,Oct-19
+2,140.0,,"3,500",,,
+3,,9.00,,,,
+4,120.0,Mar-20,"3,000",Mar-20,2.5,Mar-20
+5,100.0,2.00Aug-20  7.00,"2,500",Aug-20,,Aug-20
+6,80.0,1.50Jan-21  5.00,"2,000",Jan-21,,Jan-21
+7,60.0,,"1,500",,,
+8,,3.00,,,1.0,
+9,40.0,Jun-21,"1,000",Jun-21,,Jun-21
+10,20.0,1.00 Nov-21,500,Nov-21Nov-21,0.5,
+
+Table number: 48,1/29/2021,Dry Production,Unnamed: 0,Rigs,Unnamed: 1,Unnamed: 2,Avg IP's,Well,Unnamed: 3,Unnamed: 4,PEPL,1/29/2021.1,Dry Production.1,Unnamed: 5,Rigs.1,Unnamed: 6,Unnamed: 7,Avg IP's.1,Well.1,Unnamed: 8,PEPL.1
+0,TX District 10,mmcfd Yr/Yr,Gas,,Oil,,mcfd,Count,,,Price,Kansas,mmcfd Yr/Yr,Gas,,Oil,,mcfd,Count,,Price
+1,Winter '20/'21,666 (87),,0.0,,1.0,692,,3.0,$,2.43,Winter '20/'21,448 (20),-,,,9.0,41,165,$,2.43
+2,Summer '21,631 (76),,0.0,,2.0,688,,24.0,$,2.40,Summer '21,439 (17),-,,,16.0,42,427,$,2.40
+3,Winter '21/'22,605 (60),,0.0,,3.0,684,,22.0,$,2.71,Winter '21/'22,435 (14),-,,,17.0,42,391,$,2.71
+4,2021,634 (76),,0.0,,2.0,689,,35.0,$,2.45,2021,440 (17),-,,,15.0,42,703,$,2.45
+5,2022,584 (51),,0.0,,2.0,680,,49.0,$,2.32,2022,429 (12),-,,,15.0,43,868,$,2.32
+
+Table number: 49,1/29/2021,Dry Production,Unnamed: 0,Rigs,Unnamed: 1,Unnamed: 2,Avg IP's,Well,Unnamed: 3,PEPL,1/29/2021.1,Dry Production.1,Unnamed: 4,Rigs.1,Unnamed: 5,Unnamed: 6,Avg IP's.1,Well.1,Unnamed: 7,Unnamed: 8,PEPL.1
+0,Oklahoma,mmcfd Yr/Yr,Gas,,Oil,,mcfd,Count,,Price,Arkansas,mmcfd Yr/Yr,Gas,,Oil,,mcfd,Count,,,Price
+1,Winter '20/'21,"6,660 (855)",,4.0,,15.0,"1,829",341,$,2.43,Winter '20/'21,"1,249 (121)",-,,,0.0,51,,4.0,$,2.43
+2,Summer '21,"6,045 (582)",,7.0,,29.0,"1,851",425,$,2.40,Summer '21,"1,193 (126)",-,,,1.0,51,,10.0,$,2.40
+3,Winter '21/'22,"5,751 (908)",,8.0,,30.0,"1,873",351,$,2.71,Winter '21/'22,"1,142 (107)",-,,,1.0,51,,9.0,$,2.71
+4,2021,"6,144 (689)",,7.0,,26.0,"1,849",729,$,2.45,2021,"1,198 (121)",-,,,1.0,51,,14.0,$,2.45
+5,2022,"5,626 (518)",,8.0,,27.0,"1,894",795,$,2.32,2022,"1,101 (98)",-,,,1.0,52,,19.0,$,2.32
+
+Table number: 50,Oklahoma production has,continued,to,Unnamed: 0,come inAprs-1tr7ong for,Unnamed: 1,Unnamed: 2,"4,000",Unnamed: 3,Unnamed: 4,Unnamed: 5,16.00,Unnamed: 6,Unnamed: 7,Unnamed: 8
+0,"January, likely an impact",of,DUCs and,,flush prodSeupc-1ti7on from,,,"3,500",,,,14.00,,,
+1,curtailed summer volumes still impacting to a greater degree.,,,,InFeb-18,,,"3,000",,,,12.00,,,
+2,"our last forecast, we had modeled a month-to-month decline from",,,,,,,"2,500",,,,10.00,,,
+3,,,,,Jul-18,,,,,,,,,,
+4,"December to January of ~180 mmcfd, but instead, December to",,,,,,,"2,000",,,,8.00,,,
+5,January in the daily nominations,,have essentially,,rDeemc-1a8ined flat,,,"1,500",,,,6.00,,,
+6,with both months coming,in,above forecast.,,RecMaally-1O9VV had,,,"1,000",,,,4.00,,,
+7,halted completion activities,,in Q2 on,lower,oil Ocptr-1ic9es and,,,500,,,,2.00,,,
+8,indicated an implied ~70 DUCs would commence production byMar-20,,,,,,,-,,,,-,,,
+9,"year end 2020, mostly in Mid-Con, with only a ‘modest’ inventory",,,,,,,,,,,,,,
+10,,,,,Aug-20,,,,,,,,,,
+11,of 30 DUCs to be carried,into,2021.,Reviewing,"state data,",,,,,,,,,,
+12,outright completions in Oklahoma had decreased draJamn-2a1tically in,,,,,,,,,,,,,,
+13,"the state data, from ~95 new wells per month in FebJu/Mn-2a1r to ~37",,,,,,,,IP Fcst Prev IP Fcst,Wells/Rig Month,,,,,
+14,new wells per month in Apr/May,,during,the,peak Noofv-p21andemic,,,,,,,,,,
+15,impact on oil markets. With the data in more recent months nowApr-22,,,,,,,,,,,,,,
+16,"maturing, we can see ~75",new,wells in,August,and thus have,,,,Oklahoma IP’s vs. Rig Efficiencies,,,,,,
+17,,,,,Sep-22,,,,,,,,,,
+18,increased our new wells coming online up to ~90-95 in the Sept-,,,,,,,"3,000",,,,5.00,,,
+19,"Dec timeframe, increasing",our,Q1 production,,levels vs prior,,,,,,,4.50,,,
+20,,,,,,,,"2,500",,,,,,,
+21,forecast. The impact of DUCs have been slightly longer and to a,,,,,,,,,,,4.00,,,
+22,larger extent as our prior forecast elevating near term production.,,,,,,,"2,000",,,,3.50,,,
+23,,,,,,,,,,,,3.00,,,
+24,"Nonetheless, the underlying trend of oil being",,,,"in favor over gas,",,,mcfd,,mcfd,,,,,mcfd
+25,,,,,,,,"1,500",,,,2.50,,,
+26,"and thus a move from STACK to SCOOP for example, remains in",,,,,,,,,,,2.00,,,
+27,"play. Oklahoma Oil IP’s are up ~35% in 2020 vs 2017, while gas",,,,,,,"1,000",,,,1.50,,,
+28,"IP’s are down ~10% over this same longer time perioJadn.-16As such,",,,,,,,500,Jan-16,,,1.00,Jan-16,,
+29,with Oklahoma remaining,the,focus of only,,OVV aJunnd-16CLR for,,,,Jun-16,,,0.50,Jun-16,,
+30,,,,,,,,-,,,,-,,,
+31,"now, with the DVN & WPX combination focusing onNthove-1P6 ermian,",,,,,,,,Nov-16,,,,Nov-16,,
+32,rather than resuming the,DOW,"JV, we",,continuAepr-t1o7 see a,,,,Apr-17,,,,Apr-17,,
+33,resumption toward gas production declines,,,,in Oklahoma overall,,,,,,,,,,
+34,,,,,Sep-17,,,,Sep-17,,,,Sep-17,,
+35,"as the year progresses, bringing the Mid-Con trend down overall.",,,,,,,,IP Fcst Prev IP Fcst,Wells/Rig Month,,,,,
+36,,,,,Feb-18,,,,Feb-18,,,,Feb-18,,
+37,,,,,Jul-18,,,,Jul-18,,,,Jul-18,,
+38,Kansas IP’s vs. Rig Efficiencies,,,,Dec-18,,,,TX 10 DIPec’-s18vs. Rig Efficiencies,,,,Dec-18,,
+39,180,,,,13.00May-19,,,"4,500",May-19,,,3.50,May-19,,
+40,160,,,,11.00,,,"4,000",,,,,,,
+41,,,,,Oct-19,,,,Oct-19,,,3.00,Oct-19,,
+42,140,,,,,,,"3,500",,,,,,,
+43,,,,,9.00,,,,,,,,,,
+44,120,,,,Mar-20,,,"3,000",Mar-20,,,2.50,Mar-20,,
+45,100,,,,2.00Aug-20  7.00,,,"2,500",Aug-20,,,,Aug-20,,
+46,80,,,,1.50Jan-21  5.00,,,"2,000",Jan-21,,,,Jan-21,,
+47,60,,,,,,,"1,500",,,,,,,
+48,,,,,3.00,,,,,,,1.00,,,
+49,40,,,,Jun-21,,,"1,000",Jun-21,,,,Jun-21,,
+50,20,,,,1.00 Nov-21,,,500,Nov-21Nov-21,,,0.50,,,
+
+Table number: 51,1/29/2021,Dry Production,Unnamed: 0,RJaigns-21,Avg IP's,Well,Unnamed: 1,EP Per,Jan-21
+0,Permian,mmcfd Yr/Yr,Gas,Oil,mcfd,Count,,Price,
+1,,,,Jun-21,,,,,Jun-21
+2,Winter '20/'21,"12,843 17",14,174,"1,887","1,021",$,2.42,
+3,Summer '21,"13,240 796",1N7ov - 2,1242,"1,887","1,713",$,2.47,Nov-21
+4,Winter '21/'22,"13,477 634",18,269,"1,889","1,404",$,2.77,
+5,,,,,,,,,Apr-22
+6,2021,"13,202 611",1A6pr - 2  2,233,"1,891","2,867",$,2.51,
+7,2022,"13,826 624",17,279,"1,913","3,554",$,2.36,Sep-22
+
+Table number: 52,"16,000",Unnamed: 0,"1,000  3,500",Unnamed: 1,Unnamed: 2,mmcfd,"2,500"
+0,,,900,,,,
+1,"14,000",,"3,000",,,,
+2,,Jan-16,"800  2,500",,,,"2,000"
+3,"12,000",,,,,,
+4,,Jun-16,"700  2,000",Jan-16,,,
+5,"10,000",,600,,,,"1,500"
+6,,Nov-16,"1,500  500",Jun-16,,,
+7,"8,000",Nov-16Apr-17,"1,000  400",,,,"1,000"
+8,"6,000",,300  500,Apr-17,,,
+9,,Sep-17,,,,,
+10,,,200  -,,,,500
+11,"4,000",,,Sep-17,,,
+12,,Feb-18,100  (500),,,,
+13,,,,Feb-18,,,
+
+Table number: 53,Permian,Dec-20,Jan-21,Feb-21,Mar-21,Apr-21,May-21,Jun-21,Jul-21,Aug-21,Sep-21,Oct-21,Nov-21
+0,Dry Prod (mmcfd),"12,491","12,740","13,058","13,156","13,161","13,188","13,229","13,240","13,256","13,283","13,322","13,370"
+1,Yr/Yr (mmcfd),(159),(177),332,67,791,"1,613","1,048",581,542,529,470,601
+2,Gas Rigs,14,12,13,14,15,17,17,17,17,17,17,17
+3,Oil Rigs,161,178,189,200,211,223,236,248,256,260,262,264
+4,Well Count,214,205,190,206,218,230,237,245,252,261,270,275
+5,IP (mcfd/well),"1,847","1,890","1,929","1,899","1,901","1,904","1,896","1,886","1,875","1,873","1,876","1,880"
+
+Table number: 54,Jun-16,Unnamed: 0,Unnamed: 1,Jan-16
+0,Permian Regional AnaNolvy-16sis,,,Jun-16
+1,We have increased our yr/yr proAdpur-1c7tion estimate for 2021,by ~40,,Nov-16
+2,"mmcfd, now at a yr/yr growth of ~Se6p1-107 mmcfd (vs. ~570 mmcfd yr/yr",,,Apr-17
+3,"growth previously), as we addeFedb-1280 rigs to our previous",2021,,Sep-17
+4,forecast due to higher oil prices. WJul-e18have increased our 2022 yr/yr,,,Feb-18
+5,"production growth forecast by ~230 mmcfd, now at an increase of",,,Jul-18
+6,Dec-18,,,
+7,~625 mmcfd yr/yr (vs. an increase of ~395 mmcfd year-on-year,,,Dec-18
+8,May-19,,,
+9,"previously), as we added 18 rigs to our previous 2022 forecast due",,,May-19
+
+Table number: 55,Unnamed: 0,Unnamed: 1,May-19,Unnamed: 2,Unnamed: 3,Unnamed: 4,May-19.1,Unnamed: 5,Unnamed: 6,Unnamed: 7
+0,,Dry Production,Prev Prodn,Well Count,,,,Dry Production Yr/Yr,IP's,
+1,,,Oct-19,,,,Oct-19,,,
+2,,Gas Rigs vs. GaMsa rP-2r0ice,,,,,Mar-20,Oil Rigs vs. Oil Price,,
+3,,,,,,,Aug-20,,,
+4,80.0,,Aug-20,,$4.00,600.0,,,,$80
+5,,,,,,,Jan-21,,,
+6,70.0,,Jan-21,,$3.50,,,,,$70
+7,,,,,,500.0,,,,
+8,,,,,,,Jun-21,,,
+9,60.0,,Jun-21,,$3.00,,,,,$60
+10,,,,,,400.0,Nov-21,,,
+11,50.0,,Nov-21,,$2.50,,,,,$50
+12,,,,,,,Apr-22,,,
+13,40.0,,Apr-22,,$2.00,300.0,,,,$40
+14,,,,,,,Sep-22,,,
+15,30.0,,,,$1.50,,,,,$30
+16,,,Sep-22,,,200.0,,,,
+17,20.0,,,,$1.00,,,,,$20
+18,,,,,,100.0,,,,
+19,10.0,,,,$0.50,,,,,$10
+
+Table number: 56,"the next 2 years; after that, we’ll be very much impacted.”",Unnamed: 0,Unnamed: 1,"1,400",Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5
+0,Two big developments from Permian infrastructure occurred in January 2021:,the,,"1,200",,,,
+1,2.1 bcfd Permian Highway Pipeline began commercial service on Jan 1 after,two,,,,,,
+2,,,,"1,000",,,,
+3,months of interim service and the uncertainty around the Mexican Samalayucmac-fd,,,,,mmcfd,,Capacity (mmcfd)
+4,"Sásabe project was resolved just last week on Jan 26, as deliveries to the pipe",,,800,,,,
+5,grew by 220 mmcfd practically overnight. Waha cash has continued late 2020,,,,,,,
+6,"strength compared to Hub/HSC, and Permian-area production has shown sustained",,,600,,,,
+7,reroutes away from less-desirable northern export paths inJaton-t1h6e Midcontinent and,,,,,,10/1/17,
+8,,,,400,1/1/2020,,,
+9,"San Juan. Looking forward, Whistler is slated for a Q3 20M21ays-1e6rvice, adding 2 bcfd",,,,,,1/1/18,
+10,from Waha to Agua Dulce. Our most recent flight overSeWph-1is6tler construction,in,,200,2/1/2020,,4/1/18,
+11,"early December showed it far ahead of expected completion status, indicating",it,,,,,7/1/18,
+
+Table number: 57,May-19,Unnamed: 0,4/1/20
+0,"4,500",,
+1,Sep-19,7/1/2020,3.507/1/20
+2,"10/1/20Jan-20  4,000",,3.00
+3,"1/1/21May-20 3,500",8/1/2020,
+4,"Sep-20  3,000",9/1/2020,2.504/1/21
+5,"Jan-21  2,500",,2.007/1/21
+6,"May-21  2,000",10/1/2020,10/1/21 1.50
+7,"1/1/22Sep-21 1,500",,
+8,,11/1/2020,1.004/1/22
+9,"Jan-22  1,000",,
+10,May-22  500,12/1/2020,0.507/1/22
+11,,,10/1/22
+
+Table number: 58,1/29/2021,Dry Production,Unnamed: 0,Rigs,Unnamed: 1,Avg IP's,Well,Unnamed: 2,EP Per,1/29/2021.1,Dry Production.1,Unnamed: 3,Rigs.1,Unnamed: 4,Unnamed: 5,Avg IP's.1,Well.1,Unnamed: 6,Unnamed: 7,EP Per.1
+0,TX District 8,mmcfd Yr/Yr,Gas,,Oil,mcfd,Count,,Price,TX District 8A,mmcfd Yr/Yr,Gas,,Oil,,mcfd,Count,,,Price
+1,Winter '20/'21,"7,012 (350)",-,,103,"1,714",488,$,2.42,Winter '20/'21,280 (18),-,,,6.0,214,29,,$,2.42
+2,Summer '21,"7,224 161",-,,142,"1,734",802,$,2.47,Summer '21,275 1,-,,,9.0,217,53,,$,2.47
+3,Winter '21/'22,"7,209 197",-,,157,"1,755",685,$,2.77,Winter '21/'22,272 (8),-,,,10.0,219,46,,$,2.77
+4,2021,"7,199 100",-,,136,"1,733","1,348",$,2.51,2021,275 (5),-,,,9.0,217,86,,$,2.51
+5,2022,"7,286 87",-,,163,"1,775","1,737",$,2.36,2022,271 (4),-,,,11.0,222,117,,$,2.36
+
+Table number: 59,1/29/2021,Dry Production,Unnamed: 0,Rigs,Unnamed: 1,Unnamed: 2,Avg IP's,Well,Unnamed: 3,Unnamed: 4,EP Per,1/29/2021.1,Dry Production.1,Unnamed: 5,Rigs.1,Unnamed: 6,Unnamed: 7,Avg IP's.1,Well.1,Unnamed: 8,EP Per.1
+0,TX District 7C,mmcfd Yr/Yr,Gas,,Oil,,mcfd,Count,,,Price,NM Permian,mmcfd Yr/Yr,Gas,,Oil,,mcfd,Count,,Price
+1,Winter '20/'21,"1,745 (38)",-,,,17.0,"1,082",86,,$,2.42,Winter '20/'21,"3,804 423",14,,,48.0,"2,366",418,$,2.42
+2,Summer '21,"1,706 (63)",-,,,25.0,"1,102",184,,$,2.47,Summer '21,"4,035 697",17,,,66.0,"2,409",675,$,2.47
+3,Winter '21/'22,"1,707 (38)",-,,,28.0,"1,122",159,,$,2.77,Winter '21/'22,"4,289 484",18,,,73.0,"2,453",514,$,2.77
+4,2021,"1,713 (61)",-,,,24.0,"1,100",299,,$,2.51,2021,"4,015 576",16,,,64.0,"2,406","1,134",$,2.51
+5,2022,"1,721 8",-,,,29.0,"1,140",407,,$,2.36,2022,"4,549 533",17,,,76.0,"2,494","1,293",$,2.36
+
+Table number: 60,Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,"21,000",Unnamed: 14,Unnamed: 15
+0,tracking to the,,intrastate system.,We,can see,,as,much,as,450,mmcfd,being,,,,$3.50Permian Highway - Full Whistler,
+1,delivered on,to,PHP from,interstates,and only ~200,,,mmcfd,being,delivered,,from,,,"19,000",Samalayuca-Sasabe,
+2,,,,,,,,,,,,,,,,,$3.00
+3,PHP to interstates;,,out of,a 2.1 bcfd,pipeline,(which,,,Kinder,Morgan,said is “not,,,,,,
+4,,,,,,,,,,,,,,,"17,000 Gulf Coast Express - Full",,
+5,"quite running 100% full”), we’re currently not seeing very much of it.",,,,,,,,,,After peaking,,,,,,$2.50
+6,Permian Highway - Partialagain earlier,in,the winter,as an influx,of DUCs,,was,,most,likely,being brought,,,,"15,000",,$2.00
+7,,,,,,,,,,,,,,,,Wahalajara,
+8,"online, flaring",has,tailed off over,the last month.,,,January,,flaring on,,average has,,,,"$1.50 13,000",,
+9,been the lowest,,flaring month,since last,May,in,the,,"Permian,",with,flaring,levels,,,,,
+
+Table number: 61,rSeWph-1is6tler construction,in,Unnamed: 0,200,2/1/2020,4/1/18
+0,"letion status, indicating",it,,,,
+1,Jan-17,,,,,7/1/18
+2,/testing service,ahead of,,-,,
+3,May-17,,,,3/1/2020,10/1/18
+
+Table number: 62,1/29/2021,Dry Production,Unnamed: 0,Rigs,Unnamed: 1,Avg IP's,Well,Unnamed: 2,NWPL,Unnamed: 3
+0,,,,Jan-21,,,,,,Jan-21
+1,Rockies,mmcfd Yr/Yr,Gas,Oil,,mcfd,Count,,Price,
+2,Winter '20/'21,"10,285 (1,125)",,J7un-  2  1,30.0,"1,034",582,$,2.68,Jun-21
+3,Summer '21,"10,045 (361)",18,,58.0,"1,136","1,326",$,2.49,
+4,,,,,,,,,,Nov-21
+5,Winter '21/'22,"10,111 (174)",1N5ov-  2  1,,61.0,"1,122","1,120",$,3.12,
+6,2021,"10,092 (555)",14,,52.0,"1,104","2,103",$,2.64,Apr-22
+7,,,Apr-22,,,,,,,
+8,2022,"10,199 108",19,,56.0,"1,185","2,800",$,2.59,
+
+Table number: 63,Rockies,Dec-20,Jan-21,Feb-21,Mar-21,Apr-21,May-21,Jun-21,Jul-21,Aug-21,Sep-21,Oct-21,Nov-21
+0,Dry Prod (mmcfd),"10,318","10,199","10,204","10,159","10,124","10,038","9,998","9,992","10,012","10,055","10,093","10,112"
+1,Yr/Yr (mmcfd),"(1,171)","(1,213)","(1,124)","(1,161)",(837),180,113,(309),(540),(642),(490),(430)
+2,Gas Rigs,6,5,5,11,16,18,21,22,19,16,14,13
+3,Oil Rigs,27,27,31,37,43,50,57,62,65,65,64,63
+4,Well Count,129,133,95,92,100,135,172,199,228,248,245,232
+5,IP (mcfd/well),"1,040","1,000","1,015","1,043","1,062","1,120","1,156","1,157","1,162","1,157","1,140","1,120"
+
+Table number: 64,Jun-16,Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4
+0,,,,,,Jan-16
+1,Rockies Regional AnaNolvy-16sis,,,,,Jun-16
+2,Our 2021 production yr/yr chanAgper-17estimate is,decreased by,~140,,,Nov-16
+3,"mmcfd, as we are now calling foSerp-a17 year-on-year",decrease,of -0.56,,,Apr-17
+4,"bcfd (vs. a -0.42 bcfd yr/yr deFecbr-e18ase previously),",mainly,due,to,,Sep-17
+5,decreasing our gas rig forecast byJul4-18rigs in 2021.,We are decreasing,,,,Feb-18
+
+Table number: 65,Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,"1,500",Unnamed: 4,Unnamed: 5,Unnamed: 6,"1,600"
+0,"12,500",,,900,,,,,"1,400"
+1,,,Jan-16,,,,,,
+2,"12,000",,,800,"1,000",,,,
+3,,,,,,,,,"1,200"
+4,"11,500",,Jun-16,700,Jan-16 500,,,,
+5,,,,600,,,,,"1,000"
+6,"11,000",,Jun-16Nov-16,500,-,,,,800
+7,"10,500",,,,Nov-16,,,,
+8,,,Apr-17,400,,,,,
+9,"10,000",,,300,(500) Apr-17,,,,600
+10,"9,500",,Sep-17,200,Sep-17,,,,400
+11,"9,000",,Feb-18,100,"(1,000)",,,,200
+12,,,,,Feb-18,,,,
+13,"8,500",,,-,,,,,
+14,,,Jul-18,,"(1,500)",,,,-
+15,,,,,Jul-18,,,,
+16,,,Dec-18,,Dec-18,,,,
+17,,,May-19,,May-19,,,,
+18,,Dry Production,Prev Prodn,Well Count,,,,,
+19,,,Oct-19,,Oct-19,,Dry Production Yr/Yr,IP's,
+20,,Gas Rigs vs. GaMsa rP-2r0ice,,,Mar-20,,Oil Rigs vs. Oil Price,,
+21,90,,Aug-20,$4.50,Aug-20160,,,,$80
+22,,,Jan-21Jan-21,,140,,,,$70
+23,75,,,$4.00,Jun-21,,,,
+24,,,Jun-21,,120,,,,$60
+25,60,,,$3.50,Nov-21,,,,
+26,,,Nov-21,,100,,,,$50
+27,,,,,Apr-22,,,,
+28,45,,Apr-22,$3.00,80,,,,$40
+29,,,,,Sep-22,,,,
+30,,,,,60,,,,$30
+31,30,,Sep-22,$2.50,,,,,
+32,,,,,40,,,,$20
+33,15,,,$2.00,20,,,,$10
+
+Table number: 66,1/29/2021,Dry Production,Unnamed: 0,Rigs,Unnamed: 1,Avg IP's,Well,Unnamed: 2,Unnamed: 3,NWPL,1/29/2021.1,Dry Production.1,Unnamed: 4,Rigs.1,Unnamed: 5,Unnamed: 6,Avg IP's.1,Well.1,Unnamed: 7,NWPL.1
+0,Piceance CO,mmcfd Yr/Yr,Gas,,Oil,mcfd,Count,,,Price,DJ CO,mmcfd Yr/Yr,Gas,,Oil,,mcfd,Count,,Price
+1,Winter '20/'21,"1,257 (208)",,2.0,-,"1,572",41,,$,2.68,Winter '20/'21,"2,581 (362)",,2.0,,7.0,871,158,$,2.68
+2,Summer '21,"1,205 (167)",,3.0,-,"1,591",99,,$,2.49,Summer '21,"2,532 (263)",,5.0,,13.0,898,571,$,2.49
+3,Winter '21/'22,"1,176 (81)",,2.0,-,"1,610",64,,$,3.12,Winter '21/'22,"2,628 47",,4.0,,14.0,925,489,$,3.12
+4,2021,"1,215 (159)",,2.0,-,"1,590",156,,$,2.64,2021,"2,547 (260)",,4.0,,12.0,896,889,$,2.64
+5,2022,"1,163 (52)",,3.0,-,"1,628",214,,$,2.59,2022,"2,727 180",,5.0,,13.0,951,"1,208",$,2.59
+
+Table number: 67,1/29/2021,Dry Production,Unnamed: 0,Rigs,Unnamed: 1,Unnamed: 2,Avg IP's,Well,Unnamed: 3,NWPL,1/29/2021.1,Dry Production.1,Unnamed: 4,Rigs.1,Unnamed: 5,Avg IP's.1,Well.1,Unnamed: 6,Unnamed: 7,NWPL.1
+0,N. Dakota,mmcfd Yr/Yr,Gas,,Oil,,mcfd,Count,,Price,Green Rvr WY,mmcfd Yr/Yr,Gas,,Oil,mcfd,Count,,,Price
+1,Winter '20/'21,"2,132 40",-,,,14.0,"1,160",275,$,2.68,Winter '20/'21,"2,770 (353)",,2.0,-,"2,355",15,,$,2.68
+2,Summer '21,"2,061 292",-,,,27.0,"1,181",350,$,2.49,Summer '21,"2,796 (124)",,9.0,-,"2,383",138,,$,2.49
+3,Winter '21/'22,"2,090 (42)",-,,,29.0,"1,203",326,$,3.12,Winter '21/'22,"2,815 46",,7.0,-,"2,412",89,,$,3.12
+4,2021,"2,076 154",-,,,25.0,"1,180",591,$,2.64,2021,"2,790 (146)",,7.0,-,"2,381",182,,$,2.64
+5,2022,"2,124 48",-,,,26.0,"1,223",734,$,2.59,2022,"2,828 38",,9.0,-,"2,439",292,,$,2.59
+
+Table number: 68,1/29/2021,Dry Production,Unnamed: 0,Rigs,Avg IP's,Well,Unnamed: 1,Unnamed: 2,EP SJ,Aug-20
+0,,,,Jan-21,,,,,,
+1,San Juan,mmcfd Yr/Yr,Gas,Oil,mcfd,Count,,,Price,Jan-21
+2,Winter '20/'21,"1,889 (174)",-,Jun- 2  1-,-,-,,$,2.52,
+3,Summer '21,"1,876 (83)",,0 -,339,7,,$,2.47,Jun-21
+4,Winter '21/'22,"1,821 (68)",,0No v  - 2  1-,602,10,,$,2.79,Nov-21
+5,2021,"1,877 (86)",,0Ap r  - 2  2-,298,11,,$,2.53,
+6,2022,"1,779 (98)",,1 -,612,38,,$,2.40,Apr-22
+
+Table number: 69,"3,200",Unnamed: 0,90  200,Unnamed: 1,"4,000"
+0,"3,000",Jan-16,80  100,,"3,500"
+1,"2,800",Jan-16Jun-16,70  -,,"3,000"
+2,"2,600",,60,,
+3,"2,400",Nov-16,(100)  50,Jun-16,"2,500"
+4,,,(200),Nov-16,"2,000"
+5,"2,200",Apr-17,40,,
+6,"2,000",,30  (300),Apr-17,"1,500"
+7,"1,800",Sep-17,20  (400),Sep-17,"1,000"
+8,"1,600",Feb-18,10  (500),,500
+9,,,,Feb-18,
+
+Table number: 70,San Juan,Dec-20,Jan-21,Feb-21,Mar-21,Apr-21,May-21,Jun-21,Jul-21,Aug-21,Sep-21,Oct-21,Nov-21
+0,Dry Prod (mmcfd),"1,813","1,871","1,931","1,919","1,908","1,896","1,885","1,875","1,865","1,856","1,847","1,838"
+1,Yr/Yr (mmcfd),(245),(173),(116),(115),(92),(45),(102),(110),(83),(118),(29),(69)
+2,Gas Rigs,-,-,-,-,-,0,0,0,0,0,0,0
+3,Oil Rigs,-,-,-,-,-,-,-,-,-,-,-,-
+4,Well Count,-,-,-,-,-,-,-,0,2,2,2,2
+5,IP (mcfd/well),-,-,-,-,-,-,-,591,593,595,596,598
+
+Table number: 71,Jun-16,Unnamed: 0,Unnamed: 1,Unnamed: 2,Jan-16
+0,San Juan Regional AnNaov-l1y6 sis,,,,Jun-16
+1,We have decreased our 2021 pArpor-1d7uction estimate,by,~10,,Nov-16
+2,"mmcfd, now at a -0.09 bcfd yr/yr dSeepc-1li7ne (vs. a -0.08 bcfd yr/yr",,,,Apr-17
+3,decrease previously). We hFaevb-e18 decreased our,2022,,,Sep-17
+4,"production forecast by ~20 mmcJfudl-,18now calling for",a -0.10,,,Feb-18
+
+Table number: 72,Aug-201/29/2021 Dry Production,Rigs,Avg IP's,Well,Socal,Unnamed: 0
+0,,Jan-21,,,,
+1,West mmcfd Yr/Yr,Gas,Oil mcfd,Count,Price,Jan-21
+2,Winter '20/'21 364 (22),0 Ju n  -  2  1,4 19,313,$2.75,
+3,Summer '21 359 (15),1,10 20,"1,138",$2.84,Jun-21
+4,Winter '21/'22 362 (1),1No  v  - 2  1,11 20,"1,071",$3.45,
+5,,,,,,Nov-21
+6,2021 360 (14),1,8 20,"1,742",$2.93,
+7,Apr-222022 365,5 2,9 20,"2,715",$2.93,Apr-22
+
+Table number: 73,Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,mmcfd
+0,650.0,,450.0,,,
+1,,Jan-16,400.0,100,,60.0
+2,600.0,,,,,
+3,,Jun-16,350.0,50,Jan-16,50.0
+4,550.0,,300.0,,Jun-16,
+5,500.0,Nov-16,250.0,-,,40.0
+6,450.0,Apr-17,200.0,(50),Nov-16,30.0
+7,,,150.0,,,
+8,400.0,20Sep-17,,(100),Apr-17,
+9,,,100.0,,,
+10,350.0,10Feb-18,50.0,(150),Sep-17,
+
+Table number: 74,West,Dec-20,Jan-21,Feb-21,Mar-21,Apr-21,May-21,Jun-21,Jul-21,Aug-21,Sep-21,Oct-21,Nov-21
+0,Dry Prod (mmcfd),365,364,362,361,359,358,358,358,358,359,360,361
+1,Yr/Yr (mmcfd),(27),1,(39),(10),(25),(19),(18),(16),(13),(10),(7),(5)
+2,Gas Rigs,1,-,-,0,2,2,2,2,1,0,-,0
+3,Oil Rigs,3,3,3,5,6,8,10,11,12,12,11,11
+4,Well Count,77,88,49,46,60,95,146,170,208,229,231,213
+5,IP (mcfd/well),19,19,19,19,19,19,19,20,20,20,20,20
+
+Table number: 75,12,$4.50,40,Aug-20,$80
+0,Jan-21,,35.0,Jan-21,$70
+1,10,$4.00,,,
+2,Jun-21,,30.0,Jun-21,$60
+3,8,$3.50,,,
+4,Nov-21,,25.0,Nov-21,$50
+5,6 Apr-22,$3.00,20.0,Apr-22,$40
+6,$304 Sep-22,$2.50,15.0,Sep-22,
+7,,,10.0,,$20
+8,2,$2.00,,,
+9,,,5.0,,$10
+
+Table number: 76,1/29/2021,Dry Production,Unnamed: 0,Rigs,Unnamed: 1,Avg IP's,Well,Unnamed: 2,Unnamed: 3,NYMEX,Aug-20
+0,Gulf of Mexico,mmcfd Yr/Yr,Gas,Jan-21Oil,,mcfd,Count,,,Price,Jan-21
+1,Winter '20/'21,"1,899 (723)",,1,25.0,"3,054",33,,$,2.66,
+2,,,,Jun-21,,,,,,,
+3,Summer '21,"2,134 540",,1,24.0,"2,922",62,,$,2.71,Jun-21
+4,Winter '21/'22,"2,024 125",,N2 ov  - 21,23.0,"2,855",44,,$,2.95,Nov-21
+5,2021,"2,092 219",,1,24.0,"2,931",100,,$,2.74,
+6,2022,"1,953 (139)",,2Apr  - 2  2,25.0,"2,856",119,,$,2.64,Apr-22
+
+Table number: 77,Unnamed: 0,90,Unnamed: 1
+0,"3,500","7,000Jan-16  80  500",
+1,"3,000",Jun-16  70  -,"6,000Jan-16"
+2,"2,500",60 Nov-16 Jun-16 50  (500),"5,000 4,000"
+3,"2,000",Apr-17  40,"Nov-16  3,000"
+4,"1,500","30 Sep-17  (1,000)","Apr-17  2,000"
+5,,20,
+6,"1,000","(1,500) Feb-18  10","Sep-17 1,000"
+
+Table number: 78,Gulf of Mexico,Dec-20,Jan-21,Feb-21,Mar-21,Apr-21,May-21,Jun-21,Jul-21,Aug-21,Sep-21,Oct-21,Nov-21
+0,Dry Prod (mmcfd),"1,786","1,938","2,020","2,107","2,195","2,172","2,151","2,132","2,113","2,095","2,077","2,058"
+1,Yr/Yr (mmcfd),(836),(690),(601),(527),(318),379,423,263,"1,041",835,"1,157",414
+2,Gas Rigs,1,-,0,1,1,1,2,2,2,2,2,2
+3,Oil Rigs,23,27,27,27,27,26,25,23,23,22,22,22
+4,Well Count,6,7,7,8,8,9,9,9,9,9,9,8
+5,IP (mcfd/well),"3,056","2,982","2,964","3,057","3,009","2,971","2,949","2,902","2,881","2,874","2,867","2,860"
+
+Table number: 79,Jun-16,Jan-16
+0,Gulf of Mexico RegionNoav-1l6 Analysis,Jun-16
+1,We have decreased our 2021 yrA/pyrr-17production estimate by ~10,Nov-16
+2,"mmcfd, now at an increase of +0.S2ep2-1b7 cfd yr/yr (vs. an increase of",Apr-17
+3,+0.23 bcfd yr/yr previously). WFebe-18have kept our 2022 yr/yr,Sep-17
+4,"outlook relatively unchanged, now Jul-18at a decrease of -0.14 bcfd",Feb-18
+
+Table number: 80,Unnamed: 0,Unnamed: 1,Unnamed: 2,Dec-18,Unnamed: 3,Unnamed: 4
+0,,May-19,,,,
+1,,,,May-19,,
+2,Dry Production,Prev Prodn,Well Count,,Dry Production Yr/Yr,IP's
+3,,Oct-19,,Oct-19,,
+
+Table number: 81,Unnamed: 0,Aug-20,Unnamed: 1,Unnamed: 2,Aug-20.1,Unnamed: 3
+0,30.0,,$4.50,80.0,,$80
+1,,Jan-21,,,Jan-21,
+2,,,,70.0,,$70
+3,25.0,,$4.00,,Jun-21,
+4,,Jun-21,,60.0,,$60
+5,20.0,Nov-21,$3.50,50.0,Nov-21,$50
+6,,,,,Apr-22,
+7,15.0,Apr-22,$3.00,40.0,,$40
+8,,,,,Sep-22,
+9,10.0,Sep-22,$2.50,30.0,,$30
+10,,,,20.0,,$20
+11,5.0,,$2.00,,,
+12,,,,10.0,,$10
+
+Table number: 82,Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,"20,000  0.60"
+0,Gulf of,Mexico,production has remained,relatively,,stable,,,"18,000"
+1,,,,,,,,,0.50
+2,through,the first,"month of the year,",coming,just ~5,mmcfd,,,"16,000"
+3,below forecast.,,After a tumultuous summer dealing,,,with six,,,"14,000  0.40"
+4,,,,,,,,,"12,000"
+5,named,"hurricanes,",producers were,quick,to,recover,,,
+6,,,,,,,,,"10,000  0.30"
+7,production after finishing necessary post-storm maintenance.,,,,,,,,
+8,,,,,,,,,"8,000"
+9,December,production,averaged,~1.7,"bcfd,",showing,,,"0.20 6,000"
+10,production had almost fully rebounded after hurricane impacts,,,,,,,,"4,000"
+11,,,,,,,,,0.10
+12,but some,pipelines,were still mitigating,storm,damage,to,,,"2,000"
+
+Table number: 83,Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Nov-21,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Nov-21.1
+0,1/29/2021,Dry Production,,Rigs,,,Avg IP's,Well,,,NYMEX,
+1,,,,,,,Apr-22,,,,,Apr-22
+2,Shelf,mmcfd Yr/Yr,Gas,,Oil,,mcfdSep-22,Count,,,Price,Sep-22
+3,Winter '20/'21,523 (208),,1,,1.0,"2,069",,5.0,$,2.66,
+4,Summer '21,445 (180),,1,,1.0,"2,094",,16.0,$,2.71,
+5,Winter '21/'22,393 (130),,2,,1.0,"2,119",,14.0,$,2.95,
+6,2021,454 (184),,1,,1.0,"2,092",,25.0,$,2.74,
+7,2022,359 (94),,2,,1.0,"2,143",,40.0,$,2.64,
+
+Table number: 84,1/29/2021,Dry Production,Unnamed: 0,Rigs,Unnamed: 1,Unnamed: 2,Avg IP's,Well,Unnamed: 3,Unnamed: 4,NYMEX
+0,Deepwater,mmcfd Yr/Yr,Gas,,Oil,,mcfd,Count,,,Price
+1,Winter '20/'21,"1,376 (515)",-,,,24.0,"3,211",,28.0,$,2.66
+2,Summer '21,"1,688 720",-,,,23.0,"3,211",,46.0,$,2.71
+3,Winter '21/'22,"1,631 255",-,,,22.0,"3,211",,29.0,$,2.95
+4,2021,"1,638 403",-,,,24.0,"3,211",,75.0,$,2.74
+5,2022,"1,593 (45)",-,,,24.0,"3,211",,80.0,$,2.64
+
+Table number: 85,corresponding rebound in production on the Sea Robin West,"4,000",Unnamed: 0,Unnamed: 1,3.50,Unnamed: 2,Unnamed: 3
+0,System. Venice Gathering System remains shut-in due to,"3,500",,,3.0,,
+1,"ongoing repairs from Hurricane Zeta. Since early January,","3,000",,,,,
+2,,,,,2.5,,
+3,the Auger platform has ramped up production from completely,,,mcfd,,,mcfd
+4,,"2,500",,,,,
+5,shut-in up to a peak of ~85 mmcfd on Garden Banks and,,,,2.0,,
+6,,"2,000",,,,,
+7,~125 mmcfd on KDWE by mid-Jan. As with Permian New,,,,1.5,,
+8,,"1,500",,,,,
+9,"Mexico, the Biden Administration lease moratorium and any",,Jan-16,,,,
+10,,,,,1.0,Jan-16,
+11,future actions taken put downward risk to the forecast. Our,"1,000",Jun-16,,,,
+12,,,,,0.5,Jun-16,
+13,"base expectation is limited impact in the next two years,",500,,,,,
+14,,,Nov-16,,,,
+15,,,,,,Nov-16,
+
+Table number: 86,1/29/2021,Dry Production,Unnamed: 0,RJaigns-21,Unnamed: 1,Avg IP's,Well,Unnamed: 2,AECO,Jan-21
+0,W. Canada,mmcfd Yr/Yr,Gas,Oil,,mcfd,Count,,Price,
+1,Winter '20/'21,"15,757 (44)",66Jun - 2,1,54.0,"1,261","1,605",$,2.20,Jun-21
+2,Summer '21,"15,840 822",61,,56.0,"1,244","2,789",$,2.00,
+3,,,,Nov-21,,,,,,Nov-21
+4,Winter '21/'22,"16,698 941",82,,95.0,"1,093","3,075",$,2.27,
+5,2021,"15,916 619",6A7pr - 2,2,64.0,"1,226","5,169",$,2.08,Apr-22
+6,2022,"17,259 1,342",69,,68.0,"1,197","6,187",$,1.94,
+
+Table number: 87,"18,000",Unnamed: 0,"1,500",Unnamed: 1,Unnamed: 2,Unnamed: 3
+0,"17,500",,,"2,000",,"3,500"
+1,"17,000",,"1,200",,,
+2,,Jan-16,,"1,500",,"3,000"
+3,"16,500",,,"1,000",Jan-16,
+4,"16,000",Jun-16,900,,,"2,500"
+5,,,,500,Jun-16,
+6,"15,500",Nov-16,,-,,"2,000"
+7,"15,000",,600,,Nov-16,"1,500"
+8,"14,500",Apr-17,,(500),Apr-17,
+9,"14,000",Sep-17,300,"(1,000)",Sep-17,"1,000"
+10,"13,500",,,"(1,500)",,500
+11,,Feb-18,,,Feb-18,
+
+Table number: 88,Western Canada,Dec-20,Jan-21,Feb-21,Mar-21,Apr-21,May-21,Jun-21,Jul-21,Aug-21,Sep-21,Oct-21,Nov-21
+0,Dry Prod (mmcfd),"15,809","15,768","15,789","15,770","16,023","15,796","14,899","15,509","15,943","16,267","16,442","16,387"
+1,Yr/Yr (mmcfd),(329),249,(16),109,410,440,(201),724,"1,169","1,923","1,289",737
+2,Gas Rigs,58,66,75,75,46,41,52,58,63,60,104,105
+3,Oil Rigs,40,68,98,29,14,13,57,45,70,88,105,98
+4,Well Count,258,309,422,340,98,135,520,545,604,365,521,648
+5,IP (mcfd/well),"1,091","1,336","1,391","1,147","1,628","1,673",283,"1,163","1,460","1,446","1,055","1,090"
+
+Table number: 89,Unnamed: 0,Unnamed: 1,90,Unnamed: 2,100,Unnamed: 3
+0,"15,000",May-18,Jan-18  80,,90.0,Jan-18
+1,"14,500",Sep-18,May-18 70,,80.0,May-18
+2,,,60 Sep-18,,70.0,Sep-18
+3,"14,000",Jan-19,,,,
+4,,,50 Jan-19,,60.0,Jan-19
+5,,May-19,,,,
+6,"13,500",,,,50.0,
+7,,,40 May-19,,,May-19
+8,,Sep-19,,,40.0,
+9,"13,000",,30 Sep-19,,,Sep-19
+10,,Jan-20,,,30.0,
+11,"12,500",,20 Jan-20,,20.0,Jan-20
+12,,May-20,,,,
+13,,,10 May-20,,10.0,May-20
+
+Table number: 90,1/29/2021,Dry Production,Unnamed: 0,Rigs,Unnamed: 1,Unnamed: 2,Avg IP's,Well Sep-22,Unnamed: 3,Unnamed: 4,AECO,Sep-22,Unnamed: 5,May-22
+0,Alberta,mmcfd Yr/Yr,Gas,,Oil,,mcfd,Count,,,Price,Eastern Canada,,Sep-22
+1,Winter '20/'21,"9,958 (24)",46,,,34.0,"1,308",776,,$,2.20,,,
+2,Summer '21,"9,630 285",37,,,31.0,"1,324","1,327",,$,2.00,There is now no gas,production,
+3,Winter '21/'22,"9,949 (10)",58,,,59.0,"1,340","1,269",,$,2.27,,,
+4,2021,"9,747 162",44,,,37.0,"1,322","2,394",,$,2.08,currently flowing in,Eastern,
+5,2022,"10,039 292",45,,,41.0,"1,354","2,627",,$,1.94,,,
+
+Table number: 91,1/29/2021,Dry Production,Unnamed: 0,Unnamed: 1,Rigs,Unnamed: 2,Avg IP's,Well,Unnamed: 3,AECO,Unnamed: 4,Unnamed: 5,Unnamed: 6
+0,B. C.,mmcfd Yr/Yr,,Gas,,Oil,mcfd,Count,,Price,1/29/2021,Dry Production,
+1,Winter '20/'21,"5,429 2",,17,,-,"3,439",290,$,2.20,Nova Scotia,mmcfd Yr/Yr,
+2,Summer '21,"5,841 551",,23,,-,"3,481",377,$,2.00,,,
+3,Winter '21/'22,"6,368 939",,22,,-,"3,523",455,$,2.27,Winter '20/'21,-,0.0
+4,2021,"5,799 470",,22,,-,"3,477",759,$,2.08,,,
+5,2022,"6,831 1,032",,22,,-,"3,562",852,$,1.94,Summer '21,-,0.0
+
+Table number: 92,1/29/2021,Dry Production,Unnamed: 0,Unnamed: 1,Rigs,Unnamed: 2,Avg IP's,Well,Unnamed: 3,AECO,Unnamed: 4,Unnamed: 5,Unnamed: 6
+0,B. C.,mmcfd Yr/Yr,,Gas,,Oil,mcfd,Count,,Price,1/29/2021,Dry Production,
+1,Winter '20/'21,"5,429 2",,17,,-,"3,439",290,$,2.20,Nova Scotia,mmcfd Yr/Yr,
+2,Summer '21,"5,841 551",,23,,-,"3,481",377,$,2.00,,,
+3,Winter '21/'22,"6,368 939",,22,,-,"3,523",455,$,2.27,Winter '20/'21,-,0.0
+4,2021,"5,799 470",,22,,-,"3,477",759,$,2.08,,,
+5,2022,"6,831 1,032",,22,,-,"3,562",852,$,1.94,Summer '21,-,0.0
+6,,,,,,,,,,,Winter '21/'22,-,0.0
+7,1/29/2021,Dry Production,,,Rigs,,Avg IP's,Well,,AECO,,,
+8,Saskatchewan,mmcfd Yr/Yr,,Gas,,Oil,mcfd,Count,,Price,2021,-,0.0
+9,Winter '20/'21,370 (22),,,2,20,48,538,$,2.20,2022,-,0.0
+10,Summer '21,369 (14),,,1,25,49,"1,085",$,2.00,,,
+
+Table number: 93,1/29/2021,Dry Production,Unnamed: 0,Rigs,Unnamed: 1,Unnamed: 2,Avg IP's,Well,Unnamed: 3,AECO,Unnamed: 4,Unnamed: 5,Unnamed: 6
+0,Saskatchewan,mmcfd Yr/Yr,Gas,,Oil,,mcfd,Count,,Price,2021.0,-,0.0
+1,Winter '20/'21,370 (22),,2.0,,20.0,48,538,$,2.20,2022.0,-,0.0
+2,Summer '21,369 (14),,1.0,,25.0,49,"1,085",$,2.00,,,
+3,Winter '21/'22,381 11,,3.0,,36.0,49,"1,352",$,2.27,,,
+4,2021,370 (13),,2.0,,27.0,49,"2,016",$,2.08,,,
+5,2022,389 18,,2.0,,27.0,50,"2,707",$,1.94,,,
+
+Table number: 94,Western Canada Regional Analysis (cont.),Unnamed: 0,Unnamed: 1,Unnamed: 2
+0,,,Alberta IP’s vs. Rig Efficiencies,
+1,Biggest Impact / Risks / Assumptions,,,
+2,,"4,000",,5.0
+3,Production in Western Canada has continued to run,"3,500",,5.0
+4,"strong, once again coming in above forecast by ~255","3,000",,4.0
+5,,,,4.0
+6,mmcfd for January. Freeze-off impacts have been minimal,"2,500",,3.0
+7,this winter as the weather has been relatively mild. As rig,"2,000",,3.0
+8,,"1,500",,2.0
+9,"counts collapsed last summer, IPs in Alberta sky-rocketed",,,2.0
+10,,"1,000",,
+11,"and, combined with deferred wells, helped push Western",500,,11.0
+12,Canada to higher gas production than was originally,-,,0.0
+13,"expected this winter, with some days this winter surpassing",,,
+14,"16.0 bcfd, the highest levels seen since March 2020. This",,,
+15,is despite recent rig counts in Alberta being the lowest in,,IP Fcst Prev IP Fcst Wells/Rig Month,
+16,the month of January since we began tracking rig counts,,,
+17,back in 2005; current January rigs are running 20% below,,British Columbia IP’s vs. Rig Efficiencies,
+18,January 2020. Our current forecast calls for production to,"6,000",,10.0
+19,"go back on a growth path this year, led by higher gas rig","5,000",,98.0
+20,"counts and higher well efficiencies. With that being said,",,,
+21,,"4,000",,7.0
+22,"over the last 2 forecast updates, we’ve added a decent",,,6.0
+23,,"3,000",,5.0
+24,amount to our production forecast for Western Canada and,,,4.0
+25,,"2,000",,
+26,"it feels somewhat “heavy.” By this, we mean it’s starting to",,,3.0
+27,,mcfd,mcfd,2.0
+
+Table number: 95
